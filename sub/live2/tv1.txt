@@ -109,14 +109,6 @@ CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8?icpid=8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
 
-🐅｜虎牙,#genre#
-张大仙,https://live.52sf.ga/huya/688
-王者荣耀赛事,https://live.52sf.ga/huya/kpl
-英雄联盟赛事,https://live.52sf.ga/huya/lpl
-暴雪频道,https://live.52sf.ga/huya/blizzardgame1
-ESLCSGO,https://live.52sf.ga/huya/eslcsgo
-
-
 👍｜4K,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
