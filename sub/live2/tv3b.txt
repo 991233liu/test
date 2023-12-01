@@ -1,3 +1,32 @@
+收藏,#genre#
+CCTV2 高清,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8$yyzq线路1
+CCTV3 高清,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8$yyzq线路1
+CCTV6 高清,http://120.196.232.26:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8$yyzq线路1
+CCTV13 高清,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8$yyzq线路1
+CCTV2 高清,http://120.196.232.53:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8$yyzq线路2
+CCTV3 高清,http://120.196.232.49:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8$yyzq线路2
+CCTV6 高清,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8$yyzq线路2
+CCTV13 高清,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8$yyzq线路2
+CCTV2 高清,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8$yyzq线路3
+CCTV3 高清,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8$yyzq线路3
+CCTV6 高清,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8$yyzq线路3
+CCTV13 高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8$yyzq线路3
+北京卫视 高清,http://39.134.65.175/PLTV/88888888/224/3221225678/index.m3u8?$yyzq线路2
+北京卫视 高清,http://39.134.67.226/PLTV/88888888/224/3221225678/index.m3u8$yyzq线路3
+北京卫视 高清,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8$yyzq线路4
+北京卫视 高清,http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8$yyzq线路5
+北京卫视 高清,http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8$yyzq线路6
+北京卫视 高清,http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8$yyzq线路7
+北京卫视 高清,http://39.134.65.208/PLTV/88888888/224/3221225678/index.m3u8$yyzq线路8
+浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+浙江卫视 高清,http://111.63.117.13:6060/030000001000/G_ZHEJIANG/G_ZHEJIANG.m3u8
+浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+
 央视频道,#genre#
 
 CCTV1 高清,http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8$yyzq线路1
