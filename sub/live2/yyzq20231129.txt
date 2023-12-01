@@ -432,15 +432,10 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 青海卫视 高清,http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
 新疆卫视 高清,http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
 
-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
