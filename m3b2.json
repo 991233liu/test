@@ -1,6 +1,6 @@
+{
 //以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/m.json
 //"spider":"https://download.kstore.space/download/2883/PY/1031.jar",
-{
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitee.com/liulufeng/test/raw/master/sub/jar/a620.jar",
 "lives":[{"name":"live","type":0,"url":"./sub/live2/tv3b.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
