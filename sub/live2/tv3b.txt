@@ -1,4 +1,6 @@
 收藏,#genre#
+CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV2 高清,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8$yyzq线路1
 CCTV3 高清,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8$yyzq线路1
 CCTV6 高清,http://120.196.232.26:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8$yyzq线路1
