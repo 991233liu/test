@@ -74,7 +74,7 @@
 {"key":"csp_xbb_sobods","name":"🍀真不卡sobods","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/真不卡sobods.json"},
 {"key":"csp_xbb_zbkyy2","name":"🍀真不卡影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/真不卡zbkyy2.json"},
 {"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/饭团HD.json"},
-{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/voflix.json"},
+{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
 {"key":"csp_xbb_Nike影视","name":"🍀Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/Nike影视网.json"},
 {"key":"csp_xbb_金眼影视","name":"🍀金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/金眼影视.json"},
 {"key":"csp_biubiu_um","name":"🍀UM影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/umkan.json"},
