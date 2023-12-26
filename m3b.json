@@ -21,12 +21,12 @@
 {"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"影视之家","name":"影视之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/360.json"},
-{"key":"360","name":"360","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.12.76.190:6647/api.php/app/"},
-{"key":"爱奇艺","name":"爱奇艺","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/jspy/爱奇艺.js"},
-{"key":"youku","name":"优酷","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/jspy/优酷.js"},
-{"key":"Qtv","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"SP360官方","name":"360官方","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"影视之家","name":"影视之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/360.json"},
+//{"key":"360","name":"360","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.12.76.190:6647/api.php/app/"},
+//{"key":"爱奇艺","name":"爱奇艺","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/jspy/爱奇艺.js"},
+//{"key":"youku","name":"优酷","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/jspy/优酷.js"},
+//{"key":"Qtv","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+//{"key":"SP360官方","name":"360官方","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
