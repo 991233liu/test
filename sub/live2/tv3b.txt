@@ -1,6 +1,4 @@
 收藏,#genre#
-CCTV2 高清,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV2 高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV3 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -11,6 +9,12 @@ CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index
 CCTV13 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13 高清,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 CCTV13 高清,https://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv13_2/index.m3u8
+
+CCTV2 高清,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV8 高清,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV2 高清,https://node1.olelive.com:6443/live/CCTV2HD_360/hls.m3u8
+CCTV8 高清,https://node1.olelive.com:6443/live/CCTV8HD_360/hls.m3u8
+CCTV2 高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 
 CCTV2 高清,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8$yyzq线路1
 CCTV3 高清,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8$yyzq线路1
@@ -44,6 +48,22 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 NewTV超级电影(1080p),https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 央视频道,#genre#
+CCTV1 高清,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2 高清,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV7 高清,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV8 高清,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9 高清,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV10 高清,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV17 高清,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+CCTV1 高清,https://node1.olelive.com:6443/live/CCTV1HD_360/hls.m3u8
+CCTV2 高清,https://node1.olelive.com:6443/live/CCTV2HD_360/hls.m3u8
+CCTV7 高清,https://node1.olelive.com:6443/live/CCTV7HD_360/hls.m3u8
+CCTV8 高清,https://node1.olelive.com:6443/live/CCTV8HD_360/hls.m3u8
+CCTV9 高清,https://node1.olelive.com:6443/live/CCTV9HD_360/hls.m3u8
+CCTV10 高清,https://node1.olelive.com:6443/live/CCTV10HD_360/hls.m3u8
+CCTV17 高清,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
+
+CCTV2 高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 
 CCTV1 高清,http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8$yyzq线路1
 CCTV2 高清,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8$yyzq线路1
