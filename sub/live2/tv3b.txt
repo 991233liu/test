@@ -1,19 +1,9 @@
 收藏,#genre#
-CCTV1 高清,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
 CCTV2 高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 CCTV3 高清,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
-CCTV4 高清,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
-CCTV5 高清,https://iptv.luas.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/082ee32047-0-0-75a6cd14f7cb347227c91e2a6d560640/index.m3u8
 CCTV6 高清,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/113ed89f48-0-0-85216e55861329ec31ba1437a2ff37c9/index.m3u8
-CCTV7 高清,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/6c673669b5-0-0-90e92122cbd4455cbb11d7bd0b5b6ea1/index.m3u8
 CCTV8 高清,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
-CCTV9 高清,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/a1920294b0-0-0-f3b9b294fd2e3c4db85f962e6949c4a1/index.m3u8
-CCTV10 高清,https://iptv.luas.edu.cn/liverespath/96f212c8bb9eca90c8f15ae041b4f64b3a3ba67b/704c40e312-0-0-d7eeef74a78b0c9084555d23b4b7d5ff/index.m3u8
-CCTV11 高清,https://iptv.luas.edu.cn/liverespath/3d0aa0f1604f13f0ae90c2dc0590ca22a1bcaaa2/ccc087c3bb-0-0-a4f241c8dff1ec50c45515001eaa902d/index.m3u8
-CCTV12 高清,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/da896392de-0-0-ede65bb4432c53f2a799682b67749528/index.m3u8
 CCTV13 高清,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/9ddc038b5d-0-0-ebfb78cc1a75145d94ba052b468e4bb7/index.m3u8
-CCTV14 高清,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/9755b059e1-0-0-125c585ac3439fd0c421c478f1855c24/index.m3u8
-CCTV15 高清,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/cbdb91a50f-0-0-3aaeaddadad6e43f103708f0126be7cb/index.m3u8
 
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -65,6 +55,22 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 央视频道,#genre#
+CCTV1 高清,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
+CCTV2 高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
+CCTV3 高清,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
+CCTV4 高清,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
+CCTV5 高清,https://iptv.luas.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/082ee32047-0-0-75a6cd14f7cb347227c91e2a6d560640/index.m3u8
+CCTV6 高清,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/113ed89f48-0-0-85216e55861329ec31ba1437a2ff37c9/index.m3u8
+CCTV7 高清,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/6c673669b5-0-0-90e92122cbd4455cbb11d7bd0b5b6ea1/index.m3u8
+CCTV8 高清,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
+CCTV9 高清,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/a1920294b0-0-0-f3b9b294fd2e3c4db85f962e6949c4a1/index.m3u8
+CCTV10 高清,https://iptv.luas.edu.cn/liverespath/96f212c8bb9eca90c8f15ae041b4f64b3a3ba67b/704c40e312-0-0-d7eeef74a78b0c9084555d23b4b7d5ff/index.m3u8
+CCTV11 高清,https://iptv.luas.edu.cn/liverespath/3d0aa0f1604f13f0ae90c2dc0590ca22a1bcaaa2/ccc087c3bb-0-0-a4f241c8dff1ec50c45515001eaa902d/index.m3u8
+CCTV12 高清,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/da896392de-0-0-ede65bb4432c53f2a799682b67749528/index.m3u8
+CCTV13 高清,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/9ddc038b5d-0-0-ebfb78cc1a75145d94ba052b468e4bb7/index.m3u8
+CCTV14 高清,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/9755b059e1-0-0-125c585ac3439fd0c421c478f1855c24/index.m3u8
+CCTV15 高清,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/cbdb91a50f-0-0-3aaeaddadad6e43f103708f0126be7cb/index.m3u8
+
 CCTV1 高清,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2 高清,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV7 高清,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
