@@ -93,6 +93,24 @@ CCTV13 高清,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f
 CCTV14 高清,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/9755b059e1-0-0-125c585ac3439fd0c421c478f1855c24/index.m3u8
 CCTV15 高清,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/cbdb91a50f-0-0-3aaeaddadad6e43f103708f0126be7cb/index.m3u8
 
+CCTV1 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
+CCTV2 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv2_1_td.m3u8
+CCTV3 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv3_1_td.m3u8
+CCTV4 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv4_1_td.m3u8
+CCTV5 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv5_1_td.m3u8
+CCTV6 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv6_1_td.m3u8
+CCTV7 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv7_1_td.m3u8
+CCTV8 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv8_1_td.m3u8
+CCTV9 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv9_1_td.m3u8
+CCTV10 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv10_1_td.m3u8
+CCTV11 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv11_1_td.m3u8
+CCTV12 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv12_1_td.m3u8
+CCTV13 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1_td.m3u8
+CCTV14 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv14_1_td.m3u8
+CCTV15 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv15_1_td.m3u8
+CCTV16 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv16_1_td.m3u8
+CCTV17 高清,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv17_1_td.m3u8
+
 CCTV1 高清,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2 高清,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV7 高清,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
