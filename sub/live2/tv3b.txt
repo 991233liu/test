@@ -45,8 +45,8 @@ CCTV13 高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live
 北京卫视 高清,http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8$yyzq线路6
 北京卫视 高清,http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8$yyzq线路7
 北京卫视 高清,http://39.134.65.208/PLTV/88888888/224/3221225678/index.m3u8$yyzq线路8
-北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/26301448e0-0-0-e1b9be0cc06d43606b8de06269637499/index.m3u8$兰州大学
-北京文艺 高清,https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/e20a6e3840-0-0-83c5475c893a9e49df2018e67ee371b7/index.m3u8$兰州大学
+北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/90135036d1-0-0-57032ef9474df05433b5872140029a08/index.m3u8$兰州大学
+北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$移动网络
 浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$移动网络2
 浙江卫视 高清,http://111.63.117.13:6060/030000001000/G_ZHEJIANG/G_ZHEJIANG.m3u8
@@ -170,7 +170,7 @@ CCTV17 高清,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&prot
 卫视频道,#genre# 
 北京卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$移动网络
 北京卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$移动网络2
-北京文艺 高清,https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/e20a6e3840-0-0-83c5475c893a9e49df2018e67ee371b7/index.m3u8$兰州大学
+北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 河北卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8$移动网络
 浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$移动网络
 浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$移动网络2
@@ -240,8 +240,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 河北卫视 高清,https://iptv.luas.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/2ff0a977a1-0-0-f9621db743d641bf4bffb5a2a7899f95/index.m3u8$兰州大学
 天津卫视 高清,https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/6bc12094e6-0-0-e95f6bb252e46cb674f3e87fad26cd86/index.m3u8$兰州大学
 北京卫视 高清,https://iptv.luas.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/75137b6fd1-0-0-76fa3ea4c7fb1595c6ffb91f9abfb953/index.m3u8$兰州大学
-北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/26301448e0-0-0-e1b9be0cc06d43606b8de06269637499/index.m3u8$兰州大学
-北京文艺 高清,https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/e20a6e3840-0-0-83c5475c893a9e49df2018e67ee371b7/index.m3u8$兰州大学
+北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/90135036d1-0-0-57032ef9474df05433b5872140029a08/index.m3u8$兰州大学
+北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 西藏卫视 高清,https://iptv.luas.edu.cn/liverespath/223db5dc75cab2536cbebcda8e6730ff6bf58309/ee39c902bb-0-0-9c9d7c2692637dc10f32e8217b24298d/index.m3u8$兰州大学
 新疆卫视 高清,https://iptv.luas.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/0453e15620-0-0-6b8d7f5e042139ac6b7955a676017cf0/index.m3u8$兰州大学
 浙江卫视 高清,https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a26b31b24e-0-0-922d6778ac5e1ede9829725cc590be94/index.m3u8$兰州大学
