@@ -471,8 +471,8 @@ Newtv欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225742/
 优漫卡通 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
 北京卡酷 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
 哈哈炫动 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225657/index.m3u8$hlj移动高清
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
+HM动画,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
+HM电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225675/index.m3u8$hlj移动高清
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8$hlj移动高清
 Newtv惊悚,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225665/index.m3u8$hlj移动高清
@@ -489,8 +489,8 @@ Newtv欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/
 优漫卡通 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
 北京卡酷 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
 哈哈炫动 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$hlj移动
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
+HM动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
+HM电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
 Newtv惊悚,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
