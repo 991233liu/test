@@ -1,5 +1,4 @@
 收藏,#genre#
-
 CCTV2 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225588/index.m3u8$hlj移动高清
 CCTV3 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226021/index.m3u8$hlj移动高清
 CCTV6 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8$hlj移动高清
