@@ -6,14 +6,14 @@ CCTV6 高清,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5
 CCTV8 高清,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8$兰州大学
 CCTV13 高清,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/9ddc038b5d-0-0-ebfb78cc1a75145d94ba052b468e4bb7/index.m3u8$兰州大学
 
-CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动网络
-CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$移动网络
-CCTV3 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$移动网络
-CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动网络
-CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$移动网络
-CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$移动网络
-CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$移动网络
-CCTV13 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动网络
+CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$sn-移动
+CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$sn-移动
+CCTV3 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$sn-移动
+CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$sn-移动
+CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$sn-移动
+CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$sn-移动
+CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$sn-移动
+CCTV13 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$sn-移动
 CCTV13 高清,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 CCTV13 高清,https://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 
@@ -40,8 +40,8 @@ CCTV13 高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live
 北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/90135036d1-0-0-57032ef9474df05433b5872140029a08/index.m3u8$兰州大学
 北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 浙江卫视 高清,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$liu移动网络
-浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$移动网络
-浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$移动网络2
+浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$sn-移动
+浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$sn-移动2
 北京卫视 高清,https://hlslive-tx-cdn.ysp.cctv.cn/E62F18591050AB2B497E21E331D74A20AC8E06357C42C803DC0727E6AE5B343373FD8764A6C480A6307857EB05FA68DFDF73A205FFE8F2A6342495E59C42705DDAC5420CA31AA11539E3734FF5A293E5991F9C60A92EF62FC757D5086C8E070AC7E6470EF635E7EC23DA33F43C826CA3/2000272102.m3u8?from=player&svrtime=1704341950&pid=600002309&cdn=5510&revoi=1D9F652C9F999A1B30E46A66BBF059A5E08F715D5BE39C82B11FB7D2237FFCE53279BF7C4F619BA7652FEB2A09B7CFD1E3606793DA601033A68A18D6BE0471FCC6C219D3C356DF62B69967F46410DF821BDDAE59628D36B13066D5D9AFA26480164E9E6EF95262E02D4168C77974072A9D5C8F9F8AA935361CAFBD41E02BB4DD84B7AC10607B39E34D4D1B9D3C25FB0E5235E8CD9B6AF79DC0A67E70AAEFCB67$央视网
 浙江卫视 高清,https://hlslive-tx-cdn.ysp.cctv.cn/E568DD90F28D67B0C315F93571BA2808B47F3EFA04CE2D86DC752B1ED2BD76860A4EFB27FC3E740E1040FBC6B9EFD163DFF83ADA5BEBB6205C9B2E2990118D9801ECA67FA039A0717D635599AFBA759320853E0F061DE28282188CFAE6EB0F56BDA73D2F0C5E53C9036BEC2BABA10D71/2000295502.m3u8?from=player&svrtime=1704342471&pid=600002520&cdn=5510&revoi=2EC596ACF9AE76BDC22C802F036AD025CD9B590A7ADB5514670C656348C5776DD1E3BDDDAAC00496F799546B1A926C6A868673C0DC1614CB0540E2C13EC2B86CC57813C8308017A767A5013F2A3DC6186A88E52A0B67C79C85457E9C192941F570CB243F8DB87D93E803173E973B8B0EE0146251EB0BFA7C88C7FF49829D15C9E7E277AF60FFAB2F660D2EDC5AECB855EBADD265913C35E327F5FE7F51B8D894$央视网
 
@@ -53,35 +53,35 @@ CCTV13 高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live
 北京卫视 高清,http://39.134.65.166/PLTV/88888888/224/3221225855/1.m3u8$yyzq线路7
 北京卫视 高清,http://39.134.65.208/PLTV/88888888/224/3221225678/index.m3u8$yyzq线路8
 浙江卫视 高清,http://111.63.117.13:6060/030000001000/G_ZHEJIANG/G_ZHEJIANG.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$移动网络
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$移动网络
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$移动网络
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$sn-移动
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$sn-移动
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$sn-移动
 斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 央视频道,#genre#
-CCTV1 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$移动网络
-CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动网络
-CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$移动网络2
-CCTV3 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$移动网络
-CCTV4 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$移动网络
-CCTV4 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$移动网络2
-CCTV5 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$移动网络
-CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动网络
-CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$移动网络2
-CCTV7 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$移动网络
-CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$移动网络
-CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$移动网络2
-CCTV9 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$移动网络
-CCTV10 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$移动网络
-CCTV11 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$移动网络
-CCTV12 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$移动网络
-CCTV13 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动网络
-CCTV14 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$移动网络
-CCTV15 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$移动网络
-CCTV16 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$移动网络
-CCTV17 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$移动网络
+CCTV1 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$sn-移动
+CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$sn-移动
+CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$sn-移动2
+CCTV3 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$sn-移动
+CCTV4 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$sn-移动
+CCTV4 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$sn-移动2
+CCTV5 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$sn-移动
+CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$sn-移动
+CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$sn-移动2
+CCTV7 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$sn-移动
+CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$sn-移动
+CCTV8 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$sn-移动2
+CCTV9 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$sn-移动
+CCTV10 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$sn-移动
+CCTV11 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$sn-移动
+CCTV12 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$sn-移动
+CCTV13 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$sn-移动
+CCTV14 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$sn-移动
+CCTV15 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$sn-移动
+CCTV16 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$sn-移动
+CCTV17 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$sn-移动
 
 CCTV1 高清,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8$兰州大学
 CCTV2 高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8$兰州大学
@@ -171,74 +171,74 @@ CCTV17 高清,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&prot
 
 
 卫视频道,#genre# 
-北京卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$移动网络
-北京卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$移动网络2
+北京卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$sn-移动
+北京卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$sn-移动2
 北京文艺 高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
-河北卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8$移动网络
-浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$移动网络
-浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$移动网络2
-四川卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8$移动网络
-重庆卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8$移动网络
-安徽卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8$移动网络
-安徽卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8$移动网络2
-天津卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8$移动网络
-山西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8$移动网络
-山东卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8$移动网络
-山东教育 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8$移动网络
-东南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8$移动网络
-海南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8$移动网络
-厦门卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8$移动网络
-河南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8$移动网络
-湖北卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8$移动网络
-湖北卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8$移动网络2
-湖南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8$移动网络
-湖南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8$移动网络2
-东方卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8$移动网络
-东方卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8$移动网络2
-辽宁卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8$移动网络
-辽宁卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8$移动网络2
-吉林卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8$移动网络
-广西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8$移动网络
-江西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8$移动网络
-江苏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8$移动网络
-江苏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8$移动网络2
-深圳卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8$移动网络
-深圳卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8$移动网络2
-广东卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8$移动网络
-广东卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8$移动网络2
-贵州卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8$移动网络
-陕西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8$移动网络
-宁夏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8$移动网络
-甘肃卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8$移动网络
-西藏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8$移动网络
-新疆卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8$移动网络
-云南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8$移动网络
+河北卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8$sn-移动
+浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$sn-移动
+浙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$sn-移动2
+四川卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8$sn-移动
+重庆卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8$sn-移动
+安徽卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8$sn-移动
+安徽卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8$sn-移动2
+天津卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8$sn-移动
+山西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8$sn-移动
+山东卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8$sn-移动
+山东教育 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8$sn-移动
+东南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8$sn-移动
+海南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8$sn-移动
+厦门卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8$sn-移动
+河南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8$sn-移动
+湖北卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8$sn-移动
+湖北卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8$sn-移动2
+湖南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8$sn-移动
+湖南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8$sn-移动2
+东方卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8$sn-移动
+东方卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8$sn-移动2
+辽宁卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8$sn-移动
+辽宁卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8$sn-移动2
+吉林卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8$sn-移动
+广西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8$sn-移动
+江西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8$sn-移动
+江苏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8$sn-移动
+江苏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8$sn-移动2
+深圳卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8$sn-移动
+深圳卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8$sn-移动2
+广东卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8$sn-移动
+广东卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8$sn-移动2
+贵州卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8$sn-移动
+陕西卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8$sn-移动
+宁夏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8$sn-移动
+甘肃卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8$sn-移动
+西藏卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8$sn-移动
+新疆卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8$sn-移动
+云南卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8$sn-移动
 青海卫视 高清,http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
-农林卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8$移动网络
-兵团卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8$移动网络
-安多卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8$移动网络
-康巴卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8$移动网络
-延边卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8$移动网络
-黑龙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$移动网络
-黑龙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8$移动网络2
-内蒙古卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8$移动网络
-金鹰卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$移动网络
-优漫卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$移动网络
-北京卡酷 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$移动网络
-嘉佳卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$移动网络
-CGTN 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8$移动网络
-哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$移动网络
-哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8$移动网络
-SiTV游戏风云 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$移动网络
-SiTV游戏风云 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$移动网络
-SiTV都市剧场 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$移动网络
-风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$移动网络
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$移动网络
-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$移动网络
-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$移动网络
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$移动网络
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$移动网络
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$移动网络
+农林卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8$sn-移动
+兵团卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8$sn-移动
+安多卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8$sn-移动
+康巴卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8$sn-移动
+延边卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8$sn-移动
+黑龙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$sn-移动
+黑龙江卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8$sn-移动2
+内蒙古卫视 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8$sn-移动
+金鹰卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$sn-移动
+优漫卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$sn-移动
+北京卡酷 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$sn-移动
+嘉佳卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$sn-移动
+CGTN 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8$sn-移动
+哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$sn-移动
+哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8$sn-移动
+SiTV游戏风云 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$sn-移动
+SiTV游戏风云 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$sn-移动
+SiTV都市剧场 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$sn-移动
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$sn-移动
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$sn-移动
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$sn-移动
+怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$sn-移动
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$sn-移动
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$sn-移动
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$sn-移动
 
 河北卫视 高清,https://iptv.luas.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/2ff0a977a1-0-0-f9621db743d641bf4bffb5a2a7899f95/index.m3u8$兰州大学
 天津卫视 高清,https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/6bc12094e6-0-0-e95f6bb252e46cb674f3e87fad26cd86/index.m3u8$兰州大学
@@ -332,10 +332,10 @@ CHC动作电影,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab
 
 
 少儿频道,#genre#
-金鹰卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$移动网络
-优漫卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$移动网络
-北京卡酷 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$移动网络
-嘉佳卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$移动网络
+金鹰卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$sn-移动
+优漫卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$sn-移动
+北京卡酷 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$sn-移动
+嘉佳卡通 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$sn-移动
 
 金鹰卡通,http://111.20.35.103:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
 优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
@@ -397,13 +397,13 @@ CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 
 影视频道,#genre#
-风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$移动网络
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$移动网络
-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$移动网络
-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$移动网络
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$移动网络
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$移动网络
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$移动网络
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$sn-移动
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$sn-移动
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$sn-移动
+怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$sn-移动
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$sn-移动
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$sn-移动
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$sn-移动
 
 CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/e71d554505-0-0-2b59e717c068131cf6321601fbc3fc4c/index.m3u8$兰州大学
 CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/13738eade8-0-0-0b22ae43706a03c816310eed8d5d85c1/index.m3u8$兰州大学
