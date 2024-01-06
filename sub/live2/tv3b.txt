@@ -67,8 +67,8 @@ CCTV13 高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live
 北京卫视 高清,http://39.134.65.208/PLTV/88888888/224/3221225678/index.m3u8$yyzq线路8
 浙江卫视 高清,http://111.63.117.13:6060/030000001000/G_ZHEJIANG/G_ZHEJIANG.m3u8
 
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
+HM动画,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
+HM电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8$hlj移动高清
 NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225665/index.m3u8$hlj移动高清
 Newtv动作,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225661/index.m3u8$hlj移动高清
@@ -76,8 +76,8 @@ Newtv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225670/
 电影轮播,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225671/index.m3u8$hlj移动高清
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225717/index.m3u8$hlj移动高清
 
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
+HM动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
+HM电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
 NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
@@ -557,8 +557,8 @@ CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225716/index.m3u8$hlj移动高清
 Newtv东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225741/index.m3u8$hlj移动高清
 Newtv欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225742/index.m3u8$hlj移动高清
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
+HM动画,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
+HM电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225675/index.m3u8$hlj移动高清
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8$hlj移动高清
 NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225665/index.m3u8$hlj移动高清
@@ -570,8 +570,8 @@ Newtv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225670/
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$hlj移动
 Newtv东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$hlj移动
 Newtv欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$hlj移动
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
+HM动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$hlj移动
+HM电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
 NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
@@ -614,7 +614,7 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 云上电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337/zmid
 
 经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+HM电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
 江苏影视,http://183.207.248.13:80/PLTV/4/224/3221225937/index.m3u8
@@ -734,7 +734,7 @@ CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 
 
 NewTV　,#genre#
-NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+NewTVHM电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 NewTV潮妈辣婆,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
 NewTV爱情喜剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
 NewTV古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
