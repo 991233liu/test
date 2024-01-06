@@ -709,7 +709,7 @@ cctv8,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
 
 
-移动网络线路,#genre#
+陕西移动线路,#genre#
 CCTV1 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$移动网络
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动网络
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$移动网络2
