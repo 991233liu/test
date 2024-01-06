@@ -70,7 +70,7 @@ CCTV13 高清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225662/index.m3u8$hlj移动高清
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8$hlj移动高清
-Newtv惊悚,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225665/index.m3u8$hlj移动高清
+NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225665/index.m3u8$hlj移动高清
 Newtv动作,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225661/index.m3u8$hlj移动高清
 Newtv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225670/index.m3u8$hlj移动高清
 电影轮播,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225671/index.m3u8$hlj移动高清
@@ -80,7 +80,7 @@ Newtv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225670/
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
-Newtv惊悚,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
+NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
 Newtv动作,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$hlj移动
 Newtv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$hlj移动
 电影轮播,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$hlj移动
@@ -561,7 +561,7 @@ Newtv欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225742/
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$hlj移动高清
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225675/index.m3u8$hlj移动高清
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8$hlj移动高清
-Newtv惊悚,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225665/index.m3u8$hlj移动高清
+NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225665/index.m3u8$hlj移动高清
 Newtv动作,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225661/index.m3u8$hlj移动高清
 Newtv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225670/index.m3u8$hlj移动高清
 电影轮播,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225671/index.m3u8$hlj移动高清
@@ -574,7 +574,7 @@ Newtv欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
-Newtv惊悚,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
+NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
 Newtv动作,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$hlj移动
 Newtv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$hlj移动
 电影轮播,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$hlj移动
