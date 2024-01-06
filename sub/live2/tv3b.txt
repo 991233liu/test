@@ -11,6 +11,7 @@ CCTV13 高清,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f
 
 CCTV2 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动网络
 CCTV2 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226016/index.m3u8
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$移动网络
 CCTV3 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$移动网络
 CCTV6 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动网络
