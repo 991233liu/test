@@ -61,6 +61,42 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 央视频道,#genre#
+CCTV1 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226016/index.m3u8$hlj移动高清
+CCTV2 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225588/index.m3u8$hlj移动高清
+CCTV3 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226021/index.m3u8$hlj移动高清
+CCTV4 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226428/index.m3u8$hlj移动高清
+CCTV5 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8$hlj移动高清
+CCTV6 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8$hlj移动高清
+CCTV7 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225733/index.m3u8$hlj移动高清
+CCTV8 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226008/index.m3u8$hlj移动高清
+CCTV9 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225734/index.m3u8$hlj移动高清
+CCTV10 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225730/index.m3u8$hlj移动高清
+CCTV11 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225597/index.m3u8$hlj移动高清
+CCTV12 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225731/index.m3u8$hlj移动高清
+CCTV13 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$hlj移动高清
+CCTV14 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225732/index.m3u8$hlj移动高清
+CCTV15 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225601/index.m3u8$hlj移动高清
+CCTV16 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226100/index.m3u8$hlj移动高清
+CCTV17 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8$hlj移动高清
+
+CCTV1 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$hlj移动
+CCTV2 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$hlj移动
+CCTV3 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$hlj移动
+CCTV4 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$hlj移动
+CCTV5 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$hlj移动
+CCTV6 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$hlj移动
+CCTV7 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$hlj移动
+CCTV8 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$hlj移动
+CCTV9 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$hlj移动
+CCTV10 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$hlj移动
+CCTV11 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$hlj移动
+CCTV12 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$hlj移动
+CCTV13 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$hlj移动
+CCTV14 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$hlj移动
+CCTV15 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$hlj移动
+CCTV16 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$hlj移动
+CCTV17 高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$hlj移动
+
 CCTV1 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$移动网络
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动网络
 CCTV2 高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$移动网络2
