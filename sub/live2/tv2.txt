@@ -191,11 +191,11 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225653/index.m3u8$hlj移动高清
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
-北京卡酷,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225657/index.m3u8$hlj移动高清
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$hlj移动
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
-北京卡酷,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$hlj移动
 
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225716/index.m3u8$hlj移动高清
@@ -312,7 +312,7 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8$陕西移动
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$陕西移动
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$陕西移动
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
+卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$陕西移动
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8$陕西移动
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$陕西移动
@@ -404,7 +404,7 @@ CCTV17,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 深圳卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 广东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卡酷,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+卡酷少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 云南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
@@ -514,7 +514,7 @@ CCTV17,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 广东卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 北京卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卡酷,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+卡酷少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 云南卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 贵州卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
@@ -623,7 +623,7 @@ CCTV17,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 深圳卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 广东卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卡酷,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+卡酷少儿,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 云南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 贵州卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8

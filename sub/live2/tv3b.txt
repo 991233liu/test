@@ -52,8 +52,8 @@ CCTV13,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channe
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$hlj移动
 
 北京卫视,https://iptv.luas.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/75137b6fd1-0-0-76fa3ea4c7fb1595c6ffb91f9abfb953/index.m3u8$兰州大学
-北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/90135036d1-0-0-57032ef9474df05433b5872140029a08/index.m3u8$兰州大学
-北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
+北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/90135036d1-0-0-57032ef9474df05433b5872140029a08/index.m3u8$兰州大学
+北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$liu移动网络
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$陕西移动
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西移动2
@@ -312,7 +312,7 @@ CCTV17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$陕西移动
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$陕西移动2
-北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
+北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8$陕西移动
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$陕西移动
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西移动2
@@ -363,7 +363,7 @@ CCTV17,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8$陕西移动
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$陕西移动
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$陕西移动
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
+卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$陕西移动
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8$陕西移动
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$陕西移动
@@ -382,8 +382,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 河北卫视,https://iptv.luas.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/2ff0a977a1-0-0-f9621db743d641bf4bffb5a2a7899f95/index.m3u8$兰州大学
 天津卫视,https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/6bc12094e6-0-0-e95f6bb252e46cb674f3e87fad26cd86/index.m3u8$兰州大学
 北京卫视,https://iptv.luas.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/75137b6fd1-0-0-76fa3ea4c7fb1595c6ffb91f9abfb953/index.m3u8$兰州大学
-北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/90135036d1-0-0-57032ef9474df05433b5872140029a08/index.m3u8$兰州大学
-北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
+北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/90135036d1-0-0-57032ef9474df05433b5872140029a08/index.m3u8$兰州大学
+北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 西藏卫视,https://iptv.luas.edu.cn/liverespath/223db5dc75cab2536cbebcda8e6730ff6bf58309/ee39c902bb-0-0-9c9d7c2692637dc10f32e8217b24298d/index.m3u8$兰州大学
 新疆卫视,https://iptv.luas.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/0453e15620-0-0-6b8d7f5e042139ac6b7955a676017cf0/index.m3u8$兰州大学
 浙江卫视,https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a26b31b24e-0-0-922d6778ac5e1ede9829725cc590be94/index.m3u8$兰州大学
@@ -473,16 +473,16 @@ CHC动作电影,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab
 少儿频道,#genre#
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225653/index.m3u8$hlj移动高清
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
-北京卡酷,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225657/index.m3u8$hlj移动高清
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$hlj移动
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
-北京卡酷,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$hlj移动
 
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$陕西移动
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$陕西移动
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
+卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$陕西移动
 
 金鹰卡通,http://111.20.35.103:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
@@ -881,19 +881,19 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 北京综合,#genre#
-北京文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+北京文艺频道,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
 北京科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
 北京影视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
 北京财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
 北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-北京卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+卡酷少儿少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 北京新闻,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8?zbeid
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
-北京文艺,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8?zbeid
-北京文艺,http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8?zbeid
-北京文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8?zbeid
+北京文艺频道,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8?zbeid
+北京文艺频道,http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8?zbeid
+北京文艺频道,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8?zbeid
 北京青年,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?zbeid
 北京青年,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8?zbeid
 北京生活,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?zbeid
@@ -904,12 +904,12 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 北京财经,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8?zbeid
 北京影院,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8?zbeid
 北京影院,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?zbeid
-北京卡酷少儿,http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
-北京卡酷少儿,http://39.135.32.6:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zbeid
-北京卡酷少儿,http://39.135.55.7:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zbeid
-北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
-北京卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
-北京文艺,https://27.221.30.10/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
+卡酷少儿少儿,http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
+卡酷少儿少儿,http://39.135.32.6:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zbeid
+卡酷少儿少儿,http://39.135.55.7:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zbeid
+卡酷少儿少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
+卡酷少儿少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
+北京文艺频道,https://27.221.30.10/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
 北京科教,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?
 北京影视,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?
 北京财经,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?
@@ -917,15 +917,15 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 北京东奥,https://103.15.99.48/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
 北京青年,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?
 北京新闻,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
-北京卡酷少儿,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
-北京文艺,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
+卡酷少儿少儿,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
+北京文艺频道,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
 北京科教,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?
 北京影视,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?
 北京财经,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?
 北京生活,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
 北京青年,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?
 北京新闻,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
-北京卡酷少儿,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
+卡酷少儿少儿,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
 
 
 河北综合,#genre#
