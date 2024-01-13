@@ -1,15 +1,13 @@
 {
-  "author": "220805",
   "name": "voflix HD",
   // 填网站链接
-  "url": "http://voflix.me",
+  "url": "https://www.voflix.com",
   // 这个不用动，是个别网站播放需要请求头时才用到
   "User": "空",
   // 首页展示
   "shouye": "1",
   // 网站列表的分类
   "fenlei": "电影$/show/1--------#电视剧$/show/2--------#综艺$/show/3--------#动漫$/show/4--------#国产剧$/show/13--------#欧美剧$/show/16--------#国漫$/show/4-中国-------#日漫$/show/4-日本-------",
-  //"fenlei": "电影$/show/1--------#电视剧$/show/2--------#综艺$/show/3--------#动漫$/show/4--------#动作$/show/6--------#喜剧$/show/7--------#爱情$/show/8--------#科幻$/show/9--------#恐怖$/show/10--------#剧情$/show/11--------#战争$/show/12--------#动画$/show/23--------#国产剧$/show/13--------#港台剧$/show/14--------#日韩剧$/show/15--------#欧美剧$/show/16--------#纪录片$/show/21--------#泰国剧$/show/24--------",
   // 网站翻页链接的后缀
   "houzhui": "---.html",
   // 截取的列表数组是否需要二次截取，0不需要，1需要
@@ -32,8 +30,8 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
   // 搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的
-  "sousuoqian": "/search/-------------.html?wd=",
-  "sousuohou": "&limit=10",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
   // 搜索页影片跳转详情页的中间标识链接部分
   "sousuohouzhui": "/detail/",
   "ssmoshi": "0",
