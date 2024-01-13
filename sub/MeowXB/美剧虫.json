@@ -62,8 +62,8 @@
   "daoyanhou": "</p>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</p>",
-  "juqingqian": "简介：</span>",
-  "juqinghou": "</a>",
+  "juqingqian": "<span class=\"data\" >",
+  "juqinghou": "</span>",
   // 播放页面是否需要二次截取，0不需要，1需要
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
