@@ -1,5 +1,5 @@
 {"name": "*真不卡影院2",
-  "url": "https://www.sobods.com/",
+  "url": "https://www.sobods.com",
   "tihuan": "cnzz.com", 
   "User": "空", 
   "shouye": "1",
@@ -20,8 +20,8 @@
   "lianjieqian": "href=\"", 
   "lianjiehou": "\"", 
 
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
+  "sousuoqian": "/vodsearch/-------------.html?wd=",
+  "sousuohou": "&limit=20",
   "sousuohouzhui": "/voddetail/", 
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
