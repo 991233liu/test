@@ -1,6 +1,6 @@
 {
   "name": "789影视",
-  "url": "https://789ys.com",
+  "url": "https://www.789ys.net",
   "User": "空",
   "shouye": "1",
   "fenlei": "电视剧$/list/2-#电影$/list/1-#综艺$/list/3-#动漫$/list/4-",
@@ -18,7 +18,7 @@
   "lianjiehou": "\"",
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=50",
-  "sousuohouzhui": "/vod/",
+  "sousuohouzhui": "/voddetail/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
