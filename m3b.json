@@ -24,6 +24,7 @@
 {"key":"csp_xbb_sobods","name":"🍀真不卡sobods","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/真不卡sobods.json"},
 //{"key":"csp_xbb_348电影网","name":"🍀348电影网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/348电影网.json"},
 
+{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","playUrl":"http://voflix.me","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
 {"key":"csp_xp_vip1280","name":"💢VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/vip1280.json"},
 //{"key":"csp_xp_vip12801","name":"💢VIP电影1","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/saohuotv2.json"},
 {"key":"csp_xbb_VIP1280","name":"🍀VIP1280","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/vip1280.json"},
