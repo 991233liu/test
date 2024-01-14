@@ -37,7 +37,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "fed-play-item fed-drop-item fed-visible",
+  "bfjiequshuzuqian": "class=\"fed-play-item fed-drop-item",
   "bfjiequshuzuhou": "</div>",
   "zhuangtaiqian": "类型：</span>",
   "zhuangtaihou": "</p>",
