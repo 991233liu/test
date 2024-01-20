@@ -1058,14 +1058,14 @@
         "loginUrl": "",
         "respondTime": 16223,
         "ruleBookInfo": {
-            "author": "$.data.author",
-            "coverUrl": "https://www.biqg.cc/bookimg/{{$.data.Img}}",
-            "init": "@js:eval(String(source.bookSourceComment))",
-            "intro": "&nbsp;{{$.data.intro}}",
-            "kind": "{{$.data.CName}}\n{{$.data.BookStatus}}\n{{$.data.LastTime}}##\\s..:.*",
-            "lastChapter": "$.data.LastChapter",
-            "name": "$.data.Name@put:{bid:$.data.Id}",
-            "tocUrl": "<js>java.put('cid',Math.floor({{$.data.Id}}/1000)+1)</js>https://www.biqg.cc/book/{{result}}/{{$.data.Id}}/index.html"
+            "author": "//meta[@property='og:novel:author']/@content",
+            "coverUrl": "//meta[@property='og:image']/@content",
+            "intro": "//meta[@property='og:description']/@content",
+            "kind": "//meta[@property='og:novel:category']/@content",
+            "lastChapter": "//meta[@property='og:novel:latest_chapter_name']/@content",
+            "name": "//meta[@property='og:novel:book_name']/@content",
+//            "tocUrl": "<js>java.put('cid',Math.floor({{$.data.Id}}/1000)+1)</js>https://www.biqg.cc/book/{{result}}/{{$.data.Id}}/index.html"
+            "tocUrl": "id.details-menu.0@href",
         },
         "ruleContent": {
             "content": "<js>eval(String(source.bookSourceComment))</js>\n$.data[?(@.hasContent==1)].content",
