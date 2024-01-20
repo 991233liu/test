@@ -1084,9 +1084,9 @@
         "ruleSearch": {
             "author": "author",
             "bookList": "$.*",
-            "bookUrl": "<js>java.put('cid',Math.floor({{$.Id}}/1000)+1)</js>https://www.biqg.cc/book/{{result}}/{{$.Id}}/info.html",
+            "bookUrl": "url_list",
             "checkKeyWord": "青春",
-            "coverUrl": "$.Img##\\w+\\.\\w+$##https://www.biqg.cc/bookimg/$0###",
+            "coverUrl": "url_img",
             "intro": "intro",
             "kind": "$.CName&&$.BookStatus&&$.UpdateTime##\\s.*",
             "lastChapter": "$.LastChapter",
