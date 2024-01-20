@@ -1058,10 +1058,10 @@
         "loginUrl": "",
         "respondTime": 16223,
         "ruleBookInfo": {
-            "author": "$.data.Author",
+            "author": "$.data.author",
             "coverUrl": "https://www.biqg.cc/bookimg/{{$.data.Img}}",
             "init": "@js:eval(String(source.bookSourceComment))",
-            "intro": "&nbsp;{{$.data.Desc}}",
+            "intro": "&nbsp;{{$.data.intro}}",
             "kind": "{{$.data.CName}}\n{{$.data.BookStatus}}\n{{$.data.LastTime}}##\\s..:.*",
             "lastChapter": "$.data.LastChapter",
             "name": "$.data.Name@put:{bid:$.data.Id}",
@@ -1072,25 +1072,25 @@
             "replaceRegex": "##<!--go-->|<!--over-->|zt0G|.+第.+章.+|千千.*最新章节！|╔ ╗|\\s*[\\\\(（]本章完[\\)）]\\s*"
         },
         "ruleExplore": {
-            "author": "$.Author",
+            "author": "$.author",
             "bookList": "$..data.BookList[*]",
             "bookUrl": "<js>java.put('cid',Math.floor({{$.Id}}/1000)+1)</js>https://www.biqg.cc/book/{{result}}/{{$.Id}}/info.html",
             "coverUrl": "https://www.biqg.cc/bookimg/{{$.Img}}",
-            "intro": "$.Desc",
+            "intro": "$.intro",
             "kind": "{{$.CName}},{{$.Score}}分",
             "name": "$.Name"
         },
         "ruleReview": {},
         "ruleSearch": {
-            "author": "$.Author",
-            "bookList": "$..data[*]",
+            "author": "author",
+            "bookList": "$.*",
             "bookUrl": "<js>java.put('cid',Math.floor({{$.Id}}/1000)+1)</js>https://www.biqg.cc/book/{{result}}/{{$.Id}}/info.html",
             "checkKeyWord": "青春",
             "coverUrl": "$.Img##\\w+\\.\\w+$##https://www.biqg.cc/bookimg/$0###",
-            "intro": "$.Desc",
+            "intro": "intro",
             "kind": "$.CName&&$.BookStatus&&$.UpdateTime##\\s.*",
             "lastChapter": "$.LastChapter",
-            "name": "$.Name",
+            "name": "articlename",
             "wordCount": ""
         },
         "ruleToc": {
@@ -1099,7 +1099,7 @@
             "chapterUrl": "https://www.biqg.cc/book/@get:{cid}/@get:{bid}/{{$.id}}.html",
             "isVolume": ""
         },
-        "searchUrl": "https://www.biqg.cc/s?q={{key}}&page={{page}}&siteid=app2",
+        "searchUrl": "https://www.biqg.cc/user/search.html?q={{key}}",
         "weight": 50
     },
     {
