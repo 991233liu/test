@@ -1064,7 +1064,7 @@
             "kind": "//meta[@property='og:novel:category']/@content",
             "lastChapter": "//meta[@property='og:novel:latest_chapter_name']/@content",
             "name": "//meta[@property='og:novel:book_name']/@content",
-            "tocUrl": "id.details-menu.0@href",
+            "tocUrl": "id.details-menu.0@href"
         },
         "ruleContent": {
             "content": "<js>eval(String(source.bookSourceComment))</js>\n$.data[?(@.hasContent==1)].content",
