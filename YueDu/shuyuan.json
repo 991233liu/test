@@ -1064,7 +1064,6 @@
             "kind": "//meta[@property='og:novel:category']/@content",
             "lastChapter": "//meta[@property='og:novel:latest_chapter_name']/@content",
             "name": "//meta[@property='og:novel:book_name']/@content",
-//            "tocUrl": "<js>java.put('cid',Math.floor({{$.data.Id}}/1000)+1)</js>https://www.biqg.cc/book/{{result}}/{{$.data.Id}}/index.html"
             "tocUrl": "id.details-menu.0@href",
         },
         "ruleContent": {
