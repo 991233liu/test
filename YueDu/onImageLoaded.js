@@ -1,4 +1,4 @@
-function onImageLoaded(e) {
+function onImageLoaded(e, aid) {
 var t = document.createElement("canvas");
 e.after(t)
 	var a = t.getContext("2d"),
