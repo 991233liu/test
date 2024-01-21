@@ -1,11 +1,54 @@
 [
   {
+    "bookSourceComment": "18禁",
+    "bookSourceGroup": "漫画,22漫画,0000",
+    "bookSourceName": "特漫网_by_历飞雨",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.17te.com",
+    "customOrder": 470,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "exploreUrl": "连载::/booklist/?end=0\n完结::/booklist/?end=1",
+    "lastUpdateTime": 1668876455701,
+    "respondTime": 1189,
+    "ruleBookInfo": {
+      "author": "class.subtitle@text",
+      "coverUrl": "class.banner_detail_form@tag.div@tag.img.0@src",
+      "intro": "class.info@tag.p.3@text",
+      "kind": "class.info@tag.p.2@tag.span@tag.a@text",
+      "lastChapter": "class.view-win-list detail-list-select@tag.li.-1@text"
+    },
+    "ruleContent": {
+      "content": "class.comicpage@tag.div@tag.img@html##alt.*\\(\\)",
+      "imageStyle": "FULL"
+    },
+    "ruleExplore": {
+      "bookList": "class.mh-item@tag.a",
+      "bookUrl": "@href",
+      "name": "@text"
+    },
+    "ruleSearch": {
+      "bookList": "class.mh-item",
+      "bookUrl": "class.mh-item@tag.a@href",
+      "coverUrl": "class.mh-cover@style",
+      "name": "tag.h2@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.view-win-list detail-list-select@tag.li@tag.a",
+      "chapterName": "text",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "https://www.17te.com/search?keyword={{key}}",
+    "weight": 81
+  },
+  {
     "bookSourceComment": "",
     "bookSourceGroup": "漫画",
     "bookSourceName": "jmcomic",
     "bookSourceType": 2,
     "bookSourceUrl": "https://18comic-cn.vip",
-    "customOrder": 470,
+    "customOrder": 471,
     "enabled": true,
     "enabledCookieJar": true,
     "enabledExplore": true,
