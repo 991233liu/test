@@ -14,10 +14,14 @@
     "loginUrl": "",
     "respondTime": 3160,
     "ruleBookInfo": {
-      "author": "class.txtItme.0@text",
-      "intro": "#full-des@html##介绍.|.*简介.",
-      "lastChapter": "class.chapter-warp.0@ul@li.-2@a@text",
-      "name": "#comicName@text##\\s.*"
+//      "author": "[property=\"og:novel:author\"]@content",
+      "coverUrl": "[property=\"og:image\"]@content",
+      "init": "",
+      "intro": "[property=\"og:description\"]@content",
+      "kind": "[property=\"og:novel:category\"]@content",
+      "lastChapter": "[name=\"revisit-after\"]@content",
+      "name": "[property=\"og:title\"]@content",
+      "wordCount": ""
     },
     "ruleContent": {
       "content": ".image-content@img@html",
