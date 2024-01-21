@@ -7,7 +7,7 @@
     "bookSourceUrl": "https://18comic-cn.vip",
     "customOrder": 470,
     "enabled": true,
-    "enabledCookieJar": false,
+    "enabledCookieJar": true,
     "enabledExplore": true,
     "exploreUrl": "[{\"title\":\"韩漫\",\"url\":\"/albums/hanman?page={{page}}\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},\n{\"title\":\"同人\",\"url\":\"/albums/doujin?page={{page}}\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},\n{\"title\":\"短篇\",\"url\":\"/albums/short?page={{page}}\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},\n{\"title\":\"单本\",\"url\":\"/albums/single?page={{page}}\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},\n{\"title\":\"其它\",\"url\":\"/albums/another?page={{page}}\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},\n{\"title\":\"全部\",\"url\":\"/albums?page={{page}}\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}}]",
     "lastUpdateTime": 1677269500570,
@@ -33,12 +33,12 @@
       "webJs": ""
     },
     "ruleExplore": {
-      "author": ".info@text##作者.",
-      "bookList": ".list-comic",
+      "bookList": ".list-col",
+      "author": ".title-truncate.1@text",
       "bookUrl": "a.0@href",
-      "coverUrl": "img@src",
+      "coverUrl": ".img-rounded@data-original",
       "intro": "#full-des@text",
-      "name": ".txtA@text##\\s.*"
+      "name": ".video-title@text"
     },
     "ruleSearch": {
       "bookList": ".list-col",
