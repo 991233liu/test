@@ -34,10 +34,10 @@
       "name": ".txtA@text##\\s.*"
     },
     "ruleSearch": {
-      "bookList": ".box-shadow",
-      "author": ".title-truncate.a.0@text",
+      "bookList": ".list-col",
+      "author": ".title-truncate#a.0@text",
       "bookUrl": "a.0@href",
-      "coverUrl": "img@src",
+      "coverUrl": ".img-rounded@src",
       "kind": "p.1@text##\\|##,",
       "lastChapter": "a.-1@text",
       "name": ".video-title@text"
