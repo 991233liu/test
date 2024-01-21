@@ -25,7 +25,7 @@
       "wordCount": ""
     },
     "ruleContent": {
-      "content": ".image-content@img@html",
+      "content": ".panel-body@img@html",
       "imageStyle": "FULL",
       "nextContentUrl": "text.下一页@href",
       "webJs": ""
