@@ -19,7 +19,8 @@
       "init": "",
       "intro": "[property=\"og:description\"]@content",
       "kind": "[property=\"og:novel:category\"]@content",
-      "lastChapter": "[name=\"revisit-after\"]@content",
+      "lastChapter": ".p-t-5 float-right@text",
+//      "lastChapter": "[name=\"revisit-after\"]@content",
       "name": "[property=\"og:title\"]@content",
       "wordCount": ""
     },
@@ -47,7 +48,7 @@
       "name": ".video-title@text"
     },
     "ruleToc": {
-      "chapterList": ".Drama li!-1@a",
+      "chapterList": ".btn-toolbar.0@a",
       "chapterName": "text",
       "chapterUrl": "href"
     },
