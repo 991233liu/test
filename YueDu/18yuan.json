@@ -15,7 +15,7 @@
     "respondTime": 3160,
     "ruleBookInfo": {
 //      "author": "[property=\"og:novel:author\"]@content",
-      "coverUrl": "[property=\"og:image\"]@content",
+//      "coverUrl": "[property=\"og:image\"]@content",
       "init": "",
       "intro": "[property=\"og:description\"]@content",
       "kind": "[property=\"og:novel:category\"]@content",
@@ -44,7 +44,7 @@
       "bookList": ".list-col",
       "author": ".title-truncate.1@text",
       "bookUrl": "a.0@href",
-      "coverUrl": ".img-rounded@src",
+      "coverUrl": ".img-rounded@data-original",
       "kind": ".label-category@text##\\|##,",
       "lastChapter": "a.-1@text",
       "name": ".video-title@text"
