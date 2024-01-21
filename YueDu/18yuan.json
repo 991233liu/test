@@ -3,7 +3,7 @@
     "bookSourceComment": "",
     "bookSourceGroup": "漫画",
     "bookSourceName": "jmcomic",
-    "bookSourceType": 0,
+    "bookSourceType": 2,
     "bookSourceUrl": "https://18comic-cn.vip",
     "customOrder": 470,
     "enabled": true,
@@ -25,7 +25,9 @@
       "wordCount": ""
     },
     "ruleContent": {
-      "content": ".panel-body@img@data-original",
+      "content": ".panel-body@img@data-original@js: list=result.split('\\n');\nlist.map(x=>'<img src=\"'+x+'\">').join('\\n')",
+//      "content": "model.images\n@js:\nresult='<img\\ssrc=\"'+String(result).replace(/\\n/g,'\">\\n<img\\ssrc=\"')+'\">'",
+//      "content": ".panel-body@img@data-original",
       "imageStyle": "FULL",
       "nextContentUrl": "text.下一页@href",
       "webJs": ""
