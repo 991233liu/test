@@ -26,7 +26,7 @@
       "wordCount": ""
     },
     "ruleContent": {
-      "content": ".panel-body@img@data-original@js: list=result.split('\\n');\nlist.map(x=>'<img src=\"'+x+'\" style=\"max-width: 100%;height: auto;\" onload=\"onImageLoaded(this, 458196);\">').join('\\n')",
+      "content": ".panel-body@img@data-original@js: list=result.split('\\n');\nlist.map(x=>'<img src=\"'+x+'\" style=\"max-width: 100%;height: auto;\" onload=\"alert(this.id);onImageLoaded(this, 458196);\">').join('\\n')",
 //      "content": "model.images\n@js:\nresult='<img\\ssrc=\"'+String(result).replace(/\\n/g,'\">\\n<img\\ssrc=\"')+'\">'",
 //      "content": ".panel-body@img@data-original",
 //      "imageStyle": "FULL",

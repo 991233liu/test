@@ -1,4 +1,7 @@
 function onImageLoaded(e, aid) {
+  if (!aid) {
+    aid = aid = (aid = (aid = e.id.split("."))[0].split("_"))[2]
+  }
 var t = document.createElement("canvas");
 e.after(t)
 	var a = t.getContext("2d"),
