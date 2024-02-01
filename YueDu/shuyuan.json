@@ -68,7 +68,8 @@
     },
     "searchUrl": "https://novel.snssdk.com/api/novel/channel/homepage/search/search/v1/?device_platform=android&parent_enterfrom=novel_channel_search.tab.&offset={{(page-1)*10}}&aid=1967&q={{key}}",
     "weight": 0
-  },{
+  },
+  {
         "bookSourceComment": "",
         "bookSourceGroup": "收藏",
         "bookSourceName": "起点中文",
