@@ -41,8 +41,8 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"vodplayinfo\"", 
-  "bfjiequshuzuhou": "</font>", 
+  "bfjiequshuzuqian": "padding-left:10px;word-break: break-all; word-wrap:break-word;", 
+  "bfjiequshuzuhou": "</ul>", 
 
   "zhuangtaiqian": "上映：</span>",
   "zhuangtaihou": "</p>",
