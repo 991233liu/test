@@ -19,7 +19,7 @@
   "lianjieqian": "href=\"", 
   "lianjiehou": "\"", 
 
-  "sousuoqian": "/vod/search.html?wd=",
+  "sousuoqian": "/index.php/vod/search.html?wd=",
   "sousuohou": "&submit=search",
   "sousuohouzhui": "/detail/", 
   "ssmoshi": "1",
