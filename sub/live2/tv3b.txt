@@ -1,4 +1,13 @@
 收藏,#genre#
+哈哈炫动,http://61.170.164.195:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://222.89.107.42:9876/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
+动漫秀场,http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://221.226.4.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://222.89.107.42:9876/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://222.89.107.42:9876/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://111.225.112.123:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://222.89.107.42:9876/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225653/index.m3u8$hlj移动高清
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
@@ -18,15 +27,6 @@
 卡酷少儿,http://111.20.35.103:6610/000000001000/7589856436881630561/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=00
 哈哈炫动,http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=00
 嘉佳卡通,http://111.20.35.103:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
-
-炫动卡通,http://61.170.164.195:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-炫动卡通,http://222.89.107.42:9876/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
-动漫秀场,http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://221.226.4.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://222.89.107.42:9876/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://222.89.107.42:9876/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://111.225.112.123:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://222.89.107.42:9876/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226016/index.m3u8$hlj移动高清
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225588/index.m3u8$hlj移动高清
