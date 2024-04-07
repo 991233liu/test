@@ -1,7 +1,7 @@
 {
   "name": "voflix HD",
   // 填网站链接
-  "url": "https://www.voflix.me",
+  "url": "https://www.voflix.vip",
   // 这个不用动，是个别网站播放需要请求头时才用到
   "User": "空",
   // 首页展示
@@ -53,7 +53,7 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   // 播放截取的列表数组的前,后关键词
-  "bfjiequshuzuqian": "class=\"module-list",
+  "bfjiequshuzuqian": "class=\"module-list sort-list",
   "bfjiequshuzuhou": "</div>",
   // 详情页状态,导演,主演,简介关键词
   "zhuangtaiqian": "更新：</span>",
