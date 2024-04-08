@@ -3,7 +3,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitee.com/liulufeng/test/raw/master/sub/jar/fan.jar;md5;939c79aa5e93766504d1f7a957d32f24",
-"lives":[{"name":"live","type":0,"url":"https://hub.gitmirror.com/https://github.com/991233liu/test/raw/master/sub/live2/tv2.txt","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://hub.gitmirror.com/https://github.com/991233liu/test/raw/master/sub/live2/tv3hd.txt","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
