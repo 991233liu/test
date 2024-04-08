@@ -8,6 +8,8 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -31,10 +33,14 @@ public class UpdataService {
     private static final Logger log = LogManager.getLogger(UpdataService.class);
 
     private String baseFilePath;
+    private Map<String, Object> ipInfos;
 
     @PostConstruct
     public void init() {
         baseFilePath = System.getProperty("user.dir") + "/txt";
+        ipInfos = getJsonFile("ipInfo.json");
+        if (ipInfos == null)
+            ipInfos = new HashMap<>();
     }
 
     /**
@@ -86,8 +92,8 @@ public class UpdataService {
             return;
         }
 
-        Map<String, Object> defUrl = getTemplate("defUrl.json");
-        Map<String, Object> template = getTemplate("template.json");
+        Map<String, Object> defUrl = getJsonFile("defUrl.json");
+        Map<String, Object> template = getJsonFile("template.json");
         Map<String, Object> result = new HashMap<>();
 
         BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(getFile("newFile.txt"))));
@@ -118,7 +124,8 @@ public class UpdataService {
         in.close();
 
         // 将url保存到文件
-        saveUrl2File(result, template, defUrl);
+        saveUrl2File(result, template, defUrl, "newUrl-d.txt", "河北", "电信");
+        saveUrl2File(result, template, defUrl, "newUrl-l.txt", "河北", "联通");
 
         // 生成md5文件
         f.createNewFile();
@@ -161,7 +168,8 @@ public class UpdataService {
      * @throws IOException
      */
     @SuppressWarnings("unchecked")
-    private void saveUrl2File(Map<String, Object> newUrls, Map<String, Object> template, Map<String, Object> defUrl) throws IOException {
+    private void saveUrl2File(Map<String, Object> newUrls, Map<String, Object> template, Map<String, Object> defUrl, String fileName, String diqu, String yunyingshang)
+            throws IOException {
         // TODO 没有找到，则使用上次的或者defUrl
         List<String> out = getTemplateForWrite("template.json");
         StringBuilder content = new StringBuilder();
@@ -174,7 +182,10 @@ public class UpdataService {
             } else { // 值
                 // TODO 有新URL时使用新的，没有时使用上次的
                 if (group.containsKey(string)) {
-                    for (String string2 : group.get(string)) {
+                    List<String> url = group.get(string);
+                    // 根据IP信息排序
+                    url = sortIpInfo(url, diqu, yunyingshang);
+                    for (String string2 : url) {
                         content.append(string);
                         content.append(",");
                         content.append(string2);
@@ -194,7 +205,53 @@ public class UpdataService {
             }
         }
 
-        saveFile("newUrl.txt", content.toString());
+        saveFile(fileName, content.toString());
+    }
+
+    /**
+     * 根据ip信息排序
+     * 
+     * @return
+     */
+    private List<String> sortIpInfo(List<String> url, String diqu, String yunyingshang) {
+        Collections.sort(url, new Comparator<String>() {
+            @Override
+            public int compare(String u1, String u2) {
+
+                String ipInfo = getIpInfo(u1);
+                boolean isDianxin1 = false;
+                boolean isHebei1 = false;
+                if (ipInfo != null) {
+                    if (ipInfo.indexOf(yunyingshang) > -1)
+                        isDianxin1 = true;
+                    if (ipInfo.indexOf(diqu) > -1)
+                        isHebei1 = true;
+                }
+                ipInfo = getIpInfo(u2);
+                boolean isDianxin2 = false;
+                boolean isHebei2 = false;
+                if (ipInfo != null) {
+                    if (ipInfo.indexOf(yunyingshang) > -1)
+                        isDianxin2 = true;
+                    if (ipInfo.indexOf(diqu) > -1)
+                        isHebei2 = true;
+                }
+                if (isDianxin1 && isDianxin2) {
+                    if (isHebei1)
+                        return -1;
+                    else if (isHebei2)
+                        return 1;
+                    return 0;
+                } else if (isDianxin1) {
+                    return -1;
+                } else if (isDianxin2) {
+                    return 1;
+                } else {
+                    return 0;
+                }
+            }
+        });
+        return url;
     }
 
     /**
@@ -204,7 +261,7 @@ public class UpdataService {
      * @return
      */
     @SuppressWarnings("unchecked")
-    private Map<String, Object> getTemplate(String fileName) {
+    private Map<String, Object> getJsonFile(String fileName) {
         String jsonStr = readFile(fileName);
         if (jsonStr != null) {
             return JSON.parseObject(jsonStr, HashMap.class);
@@ -262,5 +319,56 @@ public class UpdataService {
 
     private File getFile(String fileName) {
         return new File(baseFilePath + "/" + fileName);
+    }
+
+    private String getIpInfo(String url) {
+        url = url.substring(url.indexOf("//") + 2, url.length());
+        String ip = url.substring(0, url.indexOf(":"));
+        if (!ipInfos.containsKey(ip)) {
+            try {
+                String ipInfo = getIpInfoFrom3W(ip);
+                if (ipInfo != null) {
+                    ipInfos.put(ip, ipInfo);
+                    // 存入文件
+                    saveFile("ipInfo.json", JSON.toJSONString(ipInfos));
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+        return (String) ipInfos.get(ip);
+    }
+
+    private String getIpInfoFrom3W(String ip) throws IOException {
+        URL url = new URL("https://qifu-api.baidubce.com/ip/geo/v1/district?ip=" + ip);
+        HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+        conn.setRequestMethod("GET");
+//        conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+        conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0");
+
+        conn.setDoOutput(true);
+        conn.setConnectTimeout(5000);
+        conn.setReadTimeout(5000);
+
+        int code = conn.getResponseCode();
+        if (code != HttpURLConnection.HTTP_OK) {
+            throw new RuntimeException("Failed : HTTP error code : " + code);
+        }
+
+        BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+        String inputLine;
+        StringBuilder content = new StringBuilder();
+
+        while ((inputLine = in.readLine()) != null) {
+            content.append(inputLine);
+            content.append(System.lineSeparator());
+            System.out.println(inputLine);
+        }
+
+        in.close();
+        conn.disconnect();
+
+        return content.toString();
     }
 }
