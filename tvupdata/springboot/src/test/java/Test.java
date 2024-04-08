@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class QianWenAPIInvoker {
+public class Test {
 
     public static void main(String[] args) {
         long a;
