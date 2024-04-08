@@ -1,0 +1,16 @@
+logging:
+   level:
+      root: INFO
+      org:
+         springframework.web.servlet.DispatcherServlet: INFO
+      com:
+         assistant: INFO
+   pattern:
+      console: '%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(%5p) %clr(-){faint} %clr([%thread]){faint} %clr(%-40.40logger{39}){faint}%clr([%F:%L]){cyan} %clr(:){faint} %m%n%wex'
+---
+security:
+   appKey: 1efb69b57d374a16b280a62f007adc06;90645b47befb4736bed69a2ddf9d7ef1;db911ef27ea4448d9176267fb14dc8aa
+   appSecret: 402e10f806f843a4ae360c48f9fb5a25;d1ad0cd7b877435ca2f686c04d538384;15118ee0f0fc4792aefcc35536861116
+---
+ollama:
+   url: http://127.0.0.1:21434

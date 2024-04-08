@@ -1,0 +1,15 @@
+server:
+   port: 8083
+   servlet:
+      context-path: /assistant
+   
+spring:
+   application:
+      name: assistant
+   profiles:
+      active: @profiles.active@
+   config:
+      import: 
+         - classpath:/my-@profiles.active@.yml
+#         - optional:consul:/config/${spring.application.name};/config/${spring.application.name}/${spring.cloud.consul.discovery.instanceId}
+
