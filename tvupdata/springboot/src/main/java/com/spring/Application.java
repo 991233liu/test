@@ -30,8 +30,9 @@ public class Application implements CommandLineRunner, WebMvcConfigurer {
     public void run(String... args) throws Exception {
         System.out.println(">>>>>>>>>>>>>>>>>服务启动执行");
         updataService.download();
-        updataService.writeMyFile();
-        updataService.updataGit();
+        boolean flag = updataService.writeMyFile();
+//        if (flag)
+            updataService.updataGit();
 //        showConnection();
 //        Locker.getInstance(jdbcTemplate, transactionManager);
 //        bootStrap.init();

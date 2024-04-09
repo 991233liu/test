@@ -22,10 +22,14 @@ import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.eclipse.jgit.api.Git;
+import org.eclipse.jgit.api.Status;
 import org.eclipse.jgit.api.errors.GitAPIException;
+import org.eclipse.jgit.lib.RepositoryState;
+import org.eclipse.jgit.api.PushCommand;
 import org.eclipse.jgit.api.errors.NoFilepatternException;
 import org.eclipse.jgit.lib.PersonIdent;
 import org.eclipse.jgit.revwalk.RevCommit;
+import org.eclipse.jgit.transport.RefSpec;
 import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
@@ -89,13 +93,13 @@ public class UpdataService {
      * @throws IOException
      */
     @SuppressWarnings("unchecked")
-    public void writeMyFile() throws IOException {
+    public boolean writeMyFile() throws IOException {
         File f = getFile("newFile.txt");
         String md5 = MD5.getFileMd5(f);
         System.out.println(md5);
         f = getFile(md5 + ".txt");
         if (f.exists()) { // 已经处理过就不要再处理了
-            return;
+            return false;
         }
 
         Map<String, Object> defUrl = getJsonFile("defUrl.json");
@@ -135,12 +139,13 @@ public class UpdataService {
 
         // 生成md5文件
         f.createNewFile();
-        
+
         // 复制到git
         FileUtils.copyFile(getFile("newUrl-d.txt"), new File("d:/temp/TVBox/code/sub/live2/tv3hd.txt"));
         FileUtils.copyFile(getFile("newUrl-l.txt"), new File("d:/temp/TVBox/code/sub/live2/tv3hl.txt"));
 
         System.out.println("成功更新了一次！");
+        return true;
     }
 
     /**
@@ -156,16 +161,41 @@ public class UpdataService {
         Git git = Git.open(gitDir);
 //        // 获取工作目录
 //        git.checkout().setName("master").call(); // 切换到master分支，如果需要的话
-        // 添加文件到索引（例如，添加所有未跟踪和已修改的文件）
-        git.add().addFilepattern(".").call();
-        // 设置提交者信息
-        PersonIdent author = new PersonIdent("991233liu@163.com", "afc9726ec80d2c70ed6990846e6838e0");
-        PersonIdent committer = author; // 通常情况下，作者和提交者是同一个人
+        // 获取仓库状态
+        Status status = git.status().call();
+        // 检查是否有未追踪的文件
+        boolean hasUntracked = !status.getUntracked().isEmpty();
+        // 检查是否有已修改的文件（已跟踪但未添加到索引）
+        boolean hasModified = !status.getModified().isEmpty();
+        // 检查仓库状态，看是否有正在进行的事务（例如merge、rebase等）
+        RepositoryState repositoryState = git.getRepository().getRepositoryState();
+        boolean isInRebaseOrMerge = repositoryState == RepositoryState.REBASING || repositoryState == RepositoryState.MERGING || repositoryState == RepositoryState.CHERRY_PICKING
+                || repositoryState == RepositoryState.BISECTING;
+        // 根据检查结果决定是否执行提交
+        if (!hasUntracked && !hasModified && !isInRebaseOrMerge) {
+            System.out.println("No changes to commit.");
+        } else {
+            // 添加文件到索引（例如，添加所有未跟踪和已修改的文件）
+            git.add().addFilepattern(".").call();
+            // 设置提交者信息
+            PersonIdent author = new PersonIdent("991233liu@163.com", "afc9726ec80d2c70ed6990846e6838e0");
+            PersonIdent committer = author; // 通常情况下，作者和提交者是同一个人
 
-        // 创建并执行提交
-        RevCommit commit = git.commit().setMessage(new Date().toString()).setAuthor(author).setCommitter(committer).call();
+            // 创建并执行提交
+            RevCommit commit = git.commit().setMessage(new Date().toString()).setAuthor(author).setCommitter(committer).call();
 
-        System.out.println("New Commit: " + commit.getName());
+            System.out.println("New Commit: " + commit.getName());
+
+            // 创建并配置推送命令
+            PushCommand pushCommand = git.push();
+
+            // 设置远程仓库URL和推送的分支
+            pushCommand.setRemote("origin"); // origin 是默认的远程仓库名称，如果不是，请替换为你实际的远程仓库名称
+            pushCommand.setRefSpecs(new RefSpec("refs/heads/master:refs/heads/master")); // 推送本地的master分支到远程的master分支
+
+            // 执行推送操作
+            pushCommand.call();
+        }
 
         // 关闭连接
         git.close();
