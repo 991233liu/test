@@ -10,6 +10,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -20,6 +21,11 @@ import javax.annotation.PostConstruct;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.eclipse.jgit.api.Git;
+import org.eclipse.jgit.api.errors.GitAPIException;
+import org.eclipse.jgit.api.errors.NoFilepatternException;
+import org.eclipse.jgit.lib.PersonIdent;
+import org.eclipse.jgit.revwalk.RevCommit;
 import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
@@ -131,6 +137,34 @@ public class UpdataService {
         f.createNewFile();
 
         System.out.println("成功更新了一次！");
+    }
+
+    /**
+     * 更新git
+     * 
+     * @throws IOException
+     * @throws GitAPIException
+     * @throws NoFilepatternException
+     */
+    public void updataGit() throws IOException, NoFilepatternException, GitAPIException {
+        // 打开本地仓库
+        File gitDir = new File("d:/temp/TVBox/code/.git");
+        Git git = Git.open(gitDir);
+//        // 获取工作目录
+//        git.checkout().setName("master").call(); // 切换到master分支，如果需要的话
+        // 添加文件到索引（例如，添加所有未跟踪和已修改的文件）
+        git.add().addFilepattern(".").call();
+        // 设置提交者信息
+        PersonIdent author = new PersonIdent("991233liu@163.com", "afc9726ec80d2c70ed6990846e6838e0");
+        PersonIdent committer = author; // 通常情况下，作者和提交者是同一个人
+
+        // 创建并执行提交
+        RevCommit commit = git.commit().setMessage(new Date().toString()).setAuthor(author).setCommitter(committer).call();
+
+        System.out.println("New Commit: " + commit.getName());
+
+        // 关闭连接
+        git.close();
     }
 
     /**
