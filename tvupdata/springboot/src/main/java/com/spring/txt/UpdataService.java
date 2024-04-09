@@ -135,6 +135,10 @@ public class UpdataService {
 
         // 生成md5文件
         f.createNewFile();
+        
+        // 复制到git
+        FileUtils.copyFile(getFile("newUrl-d.txt"), new File("d:/temp/TVBox/code/sub/live2/tv3hd.txt"));
+        FileUtils.copyFile(getFile("newUrl-l.txt"), new File("d:/temp/TVBox/code/sub/live2/tv3hl.txt"));
 
         System.out.println("成功更新了一次！");
     }
