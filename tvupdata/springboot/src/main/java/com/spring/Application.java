@@ -31,7 +31,7 @@ public class Application implements CommandLineRunner, WebMvcConfigurer {
         System.out.println(">>>>>>>>>>>>>>>>>服务启动执行");
         updataService.download();
         boolean flag = updataService.writeMyFile();
-//        if (flag)
+        if (flag)
             updataService.updataGit();
 //        showConnection();
 //        Locker.getInstance(jdbcTemplate, transactionManager);
