@@ -29,7 +29,9 @@ import org.eclipse.jgit.api.PushCommand;
 import org.eclipse.jgit.api.errors.NoFilepatternException;
 import org.eclipse.jgit.lib.PersonIdent;
 import org.eclipse.jgit.revwalk.RevCommit;
+import org.eclipse.jgit.transport.CredentialsProvider;
 import org.eclipse.jgit.transport.RefSpec;
+import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
@@ -178,7 +180,7 @@ public class UpdataService {
             // 添加文件到索引（例如，添加所有未跟踪和已修改的文件）
             git.add().addFilepattern(".").call();
             // 设置提交者信息
-            PersonIdent author = new PersonIdent("991233liu@163.com", "afc9726ec80d2c70ed6990846e6838e0");
+            PersonIdent author = new PersonIdent("liulf", "991233liu@163.com");
             PersonIdent committer = author; // 通常情况下，作者和提交者是同一个人
 
             // 创建并执行提交
@@ -186,8 +188,12 @@ public class UpdataService {
 
             System.out.println("New Commit: " + commit.getName());
 
+            // 创建凭据提供者
+            String pd = FileUtils.readFileToString(getFile("password.txt"), "UTF-8");
+            CredentialsProvider cp = new UsernamePasswordCredentialsProvider("991233liu@163.com", pd);
             // 创建并配置推送命令
             PushCommand pushCommand = git.push();
+            pushCommand.setCredentialsProvider(cp);
 
             // 设置远程仓库URL和推送的分支
             pushCommand.setRemote("origin"); // origin 是默认的远程仓库名称，如果不是，请替换为你实际的远程仓库名称
