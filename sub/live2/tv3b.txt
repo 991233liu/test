@@ -1,8 +1,10 @@
 收藏,#genre#
-金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225653/index.m3u8$hlj移动高清
-优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
-卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
+动漫秀场,http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+动漫秀场,http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225657/index.m3u8$hlj移动高清
+优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225656/index.m3u8$hlj移动高清
+金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225653/index.m3u8$hlj移动高清
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225654/index.m3u8$hlj移动高清
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$hlj移动
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$hlj移动
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
@@ -15,7 +17,6 @@
 
 哈哈炫动,http://61.170.164.195:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://222.89.107.42:9876/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
-动漫秀场,http://221.226.4.10:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://221.226.4.10:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://222.89.107.42:9876/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://222.89.107.42:9876/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
