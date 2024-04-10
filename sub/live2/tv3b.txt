@@ -174,6 +174,14 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225634/index.m3u8$hlj移动超清
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
+风云剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$hlj移动超清
+风云音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$hlj移动超清
+第一剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$hlj移动超清
+怀旧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$hlj移动超清
+CHC高清电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8$hlj移动超清
+CHC家庭影院,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8$hlj移动超清
+CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8$hlj移动超清
+
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225728/index.m3u8$hlj移动高清
 北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226406/index.m3u8$hlj移动高清
@@ -209,14 +217,6 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226327/index.m3u8$hlj移动高清
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225634/index.m3u8$hlj移动高清
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226439/index.m3u8$hlj移动高清
-
-风云剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$hlj移动超清
-风云音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$hlj移动超清
-第一剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$hlj移动超清
-怀旧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$hlj移动超清
-CHC高清电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8$hlj移动超清
-CHC家庭影院,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8$hlj移动超清
-CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8$hlj移动超清
 
 风云剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8$hlj移动高清
 风云音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8$hlj移动高清
