@@ -149,7 +149,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225634/index.m3u8$hlj移动超清
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/index.m3u8$hlj移动超清
+哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/index.m3u8$hlj移动超清
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8$hlj移动超清
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226803/index.m3u8$hlj移动超清
 SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8$hlj移动超清
@@ -199,7 +199,7 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226465/in
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225634/index.m3u8$hlj移动高清
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226439/index.m3u8$hlj移动高清
 
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225675/index.m3u8$hlj移动高清
+哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225675/index.m3u8$hlj移动高清
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$hlj移动高清
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$hlj移动高清
 SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$hlj移动高清
@@ -248,7 +248,7 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226465/in
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8$hlj移动
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$hlj移动
 
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
+哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8$hlj移动
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8$hlj移动
 SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8$hlj移动
@@ -323,7 +323,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
+哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
 Newtv古装,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$hlj移动
 NewtvJS,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$hlj移动
 Newtv动作,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$hlj移动
