@@ -137,6 +137,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225619/index.m3u8$hlj移动超清
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225632/index.m3u8$hlj移动超清
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226456/index.m3u8$hlj移动超清
+山东教育,http://ottrrs.sn.chinamobile.com/PLTV/88888893/224/3221226238/index.m3u8$hlj移动超清
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225624/index.m3u8$hlj移动超清
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225625/index.m3u8$hlj移动超清
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225739/index.m3u8$hlj移动超清
@@ -146,6 +147,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225635/index.m3u8$hlj移动超清
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225638/index.m3u8$hlj移动超清
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226444/index.m3u8$hlj移动超清
+厦门卫视,http://ottrrs.sn.chinamobile.com/PLTV/88888893/224/3221226219/index.m3u8$hlj移动超清
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225628/index.m3u8$hlj移动超清
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226516/index.m3u8$hlj移动超清
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226327/index.m3u8$hlj移动超清
@@ -181,6 +183,7 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226465/in
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225619/index.m3u8$hlj移动高清
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225632/index.m3u8$hlj移动高清
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226456/index.m3u8$hlj移动高清
+山东教育,http://ottrrs.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8$hlj移动高清
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225624/index.m3u8$hlj移动高清
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225625/index.m3u8$hlj移动高清
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225739/index.m3u8$hlj移动高清
@@ -190,6 +193,7 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226465/in
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225635/index.m3u8$hlj移动高清
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225638/index.m3u8$hlj移动高清
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226444/index.m3u8$hlj移动高清
+厦门卫视,http://ottrrs.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8$hlj移动高清
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225628/index.m3u8$hlj移动高清
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226516/index.m3u8$hlj移动高清
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226327/index.m3u8$hlj移动高清
@@ -224,6 +228,7 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226465/in
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8$hlj移动
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8$hlj移动
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$hlj移动
+山东教育,http://ottrrs.sn.chinamobile.com/PLTV/88888888/224/3221226238/index.m3u8$hlj移动
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8$hlj移动
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$hlj移动
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$hlj移动
@@ -232,6 +237,7 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226465/in
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$hlj移动
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$hlj移动
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8$hlj移动
+厦门卫视,http://ottrrs.sn.chinamobile.com/PLTV/88888888/224/3221226219/index.m3u8$hlj移动
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$hlj移动
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$hlj移动
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$hlj移动
@@ -280,11 +286,7 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226465/in
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8$陕西移动
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8$陕西移动
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8$陕西移动
-青海卫视,http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
-农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8$陕西移动
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8$陕西移动
-安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8$陕西移动
-康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8$陕西移动
 延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8$陕西移动
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西移动
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8$陕西移动2
@@ -293,14 +295,12 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226465/in
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$陕西移动
 卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$陕西移动
-CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8$陕西移动
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$陕西移动
 哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8$陕西移动
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$陕西移动
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$陕西移动
 SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$陕西移动
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$陕西移动
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$陕西移动
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$陕西移动
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$陕西移动
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$陕西移动
