@@ -199,6 +199,10 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226465/in
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226439/index.m3u8$hlj移动高清
 
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225675/index.m3u8$hlj移动高清
+SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226187/index.m3u8
+SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226187/index.m3u8
+SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$hlj移动高清
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$hlj移动高清
 SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$hlj移动高清
