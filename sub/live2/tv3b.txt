@@ -20,11 +20,6 @@
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
 
-金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$陕西移动
-优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$陕西移动
-卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
-嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$陕西移动
-
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226016/index.m3u8$hlj移动超清
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225588/index.m3u8$hlj移动超清
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226021/index.m3u8$hlj移动超清
@@ -154,6 +149,11 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225634/index.m3u8$hlj移动超清
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
+哒啵电竞,http://ottrrs.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$hlj移动超清
+哒啵赛事,http://ottrrs.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8$hlj移动超清
+SiTV游戏风云,http://ottrrs.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8$hlj移动超清
+SiTV游戏风云,http://ottrrs.sn.chinamobile.com/PLTV/88888893/224/3221226803/index.m3u8$hlj移动超清
+SiTV都市剧场,http://ottrrs.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8$hlj移动超清
 风云剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$hlj移动超清
 风云音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$hlj移动超清
 第一剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$hlj移动超清
@@ -200,6 +200,11 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226465/in
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225634/index.m3u8$hlj移动高清
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226439/index.m3u8$hlj移动高清
 
+哒啵电竞,http://ottrrs.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8$hlj移动高清
+哒啵赛事,http://ottrrs.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8$hlj移动高清
+SiTV游戏风云,http://ottrrs.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$hlj移动高清
+SiTV游戏风云,http://ottrrs.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$hlj移动高清
+SiTV都市剧场,http://ottrrs.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$hlj移动高清
 风云剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8$hlj移动高清
 风云音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8$hlj移动高清
 第一剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8$hlj移动高清
@@ -244,6 +249,19 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226465/in
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$hlj移动
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8$hlj移动
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$hlj移动
+
+哒啵电竞,http://ottrrs.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8$hlj移动
+哒啵赛事,http://ottrrs.sn.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8$hlj移动
+SiTV游戏风云,http://ottrrs.sn.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8$hlj移动
+SiTV游戏风云,http://ottrrs.sn.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8$hlj移动
+SiTV都市剧场,http://ottrrs.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8$hlj移动
+风云剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8$hlj移动
+风云音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8$hlj移动
+第一剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8$hlj移动
+怀旧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8$hlj移动
+CHC高清电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8$hlj移动
+CHC家庭影院,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8$hlj移动
+CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$hlj移动
 
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$陕西移动
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$陕西移动2
