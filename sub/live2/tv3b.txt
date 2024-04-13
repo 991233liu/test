@@ -112,7 +112,7 @@ CCTV10,https://node1.olelive.com:6443/live/CCTV10HD_360/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
-北京文艺频道,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcvHqOmtn/hgQoKLE9+7Ay2N6D1ko3Yx6/syfV3AyuDrw==,,END
+北京文艺频道,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226406/index.m3u8$hlj移动超清
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225612/index.m3u8$hlj移动超清
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226391/index.m3u8$hlj移动超清
@@ -436,6 +436,9 @@ brtv财经@@1,https://epg.pw/stream/10b13c4691a0efcd77389486509b116b3eaf0ad1fd12
 邱县综合频道,http://live.hd.hdbs.cn/video/s10013-qxds1/index.m3u8
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+任丘3,https://jwcdnqx.hebyun.com.cn/live/rqtv3/1500k/tzwj_video.m3u8
+任丘4,https://jwcdnqx.hebyun.com.cn/live/rqtv4/1500k/tzwj_video.m3u8
+任丘0,https://jwcdnqx.hebyun.com.cn/live/rqtv0/1500k/tzwj_video.m3u8
 望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
 兴隆影视频道,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 兴隆综合频道,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
