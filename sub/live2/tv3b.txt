@@ -112,7 +112,7 @@ CCTV10,https://node1.olelive.com:6443/live/CCTV10HD_360/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
-北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
+北京文艺频道,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226406/index.m3u8$hlj移动超清
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225612/index.m3u8$hlj移动超清
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226391/index.m3u8$hlj移动超清
@@ -203,6 +203,7 @@ SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226187/i
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226187/index.m3u8
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
+SiTV动漫秀场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$hlj移动高清
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$hlj移动高清
 SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$hlj移动高清
