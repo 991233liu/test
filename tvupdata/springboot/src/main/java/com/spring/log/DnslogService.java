@@ -76,7 +76,7 @@ public class DnslogService implements CommandLineRunner {
         for (Map.Entry<String, Map<String, String>> entry : dns2map.entrySet()) {
             dns2.add(entry.getKey() + "," + entry.getValue().get("dateCreated") + "," + entry.getValue().get("lastUpdated"));
         }
-        FileUtils.write(new File("d:\\temp\\dns-log\\dns2.csv"), dns2.stream().collect(Collectors.joining("\n")), "UTF-8");
+        FileUtils.write(new File("d:\\temp\\dns-log\\dns2.csv"), dns2.stream().collect(Collectors.joining("\n")), "GBK");
         db = new ArrayList<>();
         db.add(JSONObject.toJSONString(allDns));
         db.add(JSONObject.toJSONString(dns2map));
