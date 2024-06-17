@@ -3,6 +3,7 @@ package com.spring.log;
 import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
@@ -26,6 +27,7 @@ public class DnslogService implements CommandLineRunner {
         List<String> db = FileUtils.readLines(new File("d:\\temp\\dns-log\\allDns.db"), "UTF-8");
         Map<String, Map<String, String>> allDns = JSONObject.parseObject(db.get(0), HashMap.class);
         Map<String, Map<String, String>> dns2map = JSONObject.parseObject(db.get(1), HashMap.class);
+        Collections.reverse(logs);
         for (String string : logs) {
             if (string.indexOf("</td><td align=\"left\">client ") > 0) {
                 String[] log = string.split("</td><td align=\"left\">client ");
