@@ -58,6 +58,8 @@ public class DnslogService implements CommandLineRunner {
                     String[] d = dns.split("\\.");
                     ln = d.length;
                     String d2 = d[ln - 2] + "." + d[ln - 1];
+                    if ("com.cn".equals(d2))
+                        d2 = d[ln - 3] + "." + d[ln - 2] + "." + d[ln - 1];
                     if (dns2map.containsKey(d2)) {
                         map = dns2map.get(d2);
                         String lastUpdated = map.get("lastUpdated");

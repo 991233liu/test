@@ -63,6 +63,7 @@ public class UpdataService {
     public void download() throws IOException {
 
         URL url = new URL("https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/ds/main/ds.txt");
+//        URL url = new URL("https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt");
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setRequestMethod("GET");
         conn.setDoOutput(true);
