@@ -293,7 +293,7 @@ public class UpdataService {
             @Override
             public int compare(String u1, String u2) {
 
-                String ipInfo = getIpInfo(u1);
+                String ipInfo = getIpInfo(u1, 3);
                 boolean isDianxin1 = false;
                 boolean isHebei1 = false;
                 if (ipInfo != null) {
@@ -302,7 +302,7 @@ public class UpdataService {
                     if (ipInfo.indexOf(diqu) > -1)
                         isHebei1 = true;
                 }
-                ipInfo = getIpInfo(u2);
+                ipInfo = getIpInfo(u2, 3);
                 boolean isDianxin2 = false;
                 boolean isHebei2 = false;
                 if (ipInfo != null) {
@@ -396,7 +396,7 @@ public class UpdataService {
         return new File(baseFilePath + "/" + fileName);
     }
 
-    private String getIpInfo(String url) {
+    private String getIpInfo(String url, int reTry) {
         url = url.substring(url.indexOf("//") + 2, url.length());
         String ip = url.substring(0, url.indexOf(":"));
         if (!ipInfos.containsKey(ip)) {
@@ -408,7 +408,10 @@ public class UpdataService {
                     saveFile("ipInfo.json", JSON.toJSONString(ipInfos));
                 }
             } catch (IOException e) {
-                e.printStackTrace();
+                if (reTry > 0)
+                    getIpInfo(url, --reTry);
+                else
+                    e.printStackTrace();
             }
         }
 
