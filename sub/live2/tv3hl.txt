@@ -1,12 +1,15 @@
 收藏,#genre#
 哈哈炫动,http://123.189.36.39:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://58.53.152.234:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+动漫秀场,https://epg.pw/stream/063f86620cbc5947dba09359a7e98b196ab92dfdcbb2c725b247793d4e48c506.ctv
 优漫卡通,http://123.189.36.4:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://123.189.36.39:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,https://epg.pw/stream/1a493f984affc629db2079c4527d4cf799d8ed816b577fcb57a045bf2ac989e7.m3u8
 卡酷少儿,http://123.189.36.39:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://123.189.36.4:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://123.189.36.39:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://111.225.113.214:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
 CCTV1,http://123.189.36.4:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.189.36.39:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://111.225.115.176:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -142,6 +145,7 @@ CCTV17,http://36.40.236.55:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&au
 河北卫视,http://58.48.37.158:1111/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿,http://111.225.113.214:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://111.225.113.214:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8
 河北影视剧,http://111.225.113.214:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://123.138.216.44:9902/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://111.225.115.176:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
