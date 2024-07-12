@@ -62,8 +62,8 @@ public class UpdataService {
      */
     public void download() throws IOException {
 
-        URL url = new URL("https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/ds/main/ds.txt");
-//        URL url = new URL("https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt");
+//        URL url = new URL("https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/ds/main/ds.txt");
+        URL url = new URL("https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt");
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setRequestMethod("GET");
         conn.setDoOutput(true);
@@ -293,7 +293,7 @@ public class UpdataService {
             @Override
             public int compare(String u1, String u2) {
 
-                String ipInfo = getIpInfo(u1, 3);
+                String ipInfo = getIpInfo(u1, 5);
                 boolean isDianxin1 = false;
                 boolean isHebei1 = false;
                 if (ipInfo != null) {
@@ -302,7 +302,7 @@ public class UpdataService {
                     if (ipInfo.indexOf(diqu) > -1)
                         isHebei1 = true;
                 }
-                ipInfo = getIpInfo(u2, 3);
+                ipInfo = getIpInfo(u2, 5);
                 boolean isDianxin2 = false;
                 boolean isHebei2 = false;
                 if (ipInfo != null) {
@@ -407,11 +407,17 @@ public class UpdataService {
                     // 存入文件
                     saveFile("ipInfo.json", JSON.toJSONString(ipInfos));
                 }
-            } catch (IOException e) {
-                if (reTry > 0)
+            } catch (Exception e) {
+                if (reTry > 0) {
+                    try {
+                        Thread.sleep(300);
+                    } catch (InterruptedException e1) {
+                        e1.printStackTrace();
+                    }
                     getIpInfo(url, --reTry);
+                }
                 else
-                    e.printStackTrace();
+                    throw new RuntimeException(e);
             }
         }
 
