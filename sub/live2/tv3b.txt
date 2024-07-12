@@ -1,6 +1,6 @@
 收藏,#genre#
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225662/index.m3u8$hlj移动超清
 动漫秀场,https://epg.pw/stream/063f86620cbc5947dba09359a7e98b196ab92dfdcbb2c725b247793d4e48c506.ctv
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225662/index.m3u8$hlj移动超清
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225657/index.m3u8$hlj移动超清
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225656/index.m3u8$hlj移动超清
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225653/index.m3u8$hlj移动超清
@@ -17,9 +17,6 @@
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$hlj移动
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$hlj移动
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$hlj移动
-
-优漫卡通,https://epg.pw/stream/1a493f984affc629db2079c4527d4cf799d8ed816b577fcb57a045bf2ac989e7.m3u8
-金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226016/index.m3u8$hlj移动超清
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225588/index.m3u8$hlj移动超清
@@ -206,7 +203,7 @@ SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226187/i
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226187/index.m3u8
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
-SiTV动漫秀场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+SiTV动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$hlj移动高清
 SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$hlj移动高清
 SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$hlj移动高清
@@ -307,6 +304,10 @@ SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226581/i
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$陕西移动
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$陕西移动
 SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$陕西移动
+
+
+优漫卡通,https://epg.pw/stream/1a493f984affc629db2079c4527d4cf799d8ed816b577fcb57a045bf2ac989e7.m3u8
+金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
 
 
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
