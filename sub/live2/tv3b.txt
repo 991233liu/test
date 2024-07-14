@@ -111,7 +111,6 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
 北京文艺频道,https://epg.pw/stream/f9426f635fe4e7f6fc12fdd2ab39f57196afec9428443e600a10c566d8212209.ctv
-北京文艺频道,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226406/index.m3u8$hlj移动超清
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225612/index.m3u8$hlj移动超清
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226391/index.m3u8$hlj移动超清
@@ -156,12 +155,16 @@ SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226581/i
 第一剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$hlj移动超清
 怀旧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$hlj移动超清
 都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
+CHC高清电影,https://stream1.freetv.fun/c768ec2110a9e5e8f60193b5b1574d472e38f568e82e645755e768af8aa8de9e.ctv
 CHC高清电影,https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
 CHC家庭影院,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226462/index.m3u8$hlj移动超清
+CHC动作电影,https://stream1.freetv.fun/7946cfbf7a25f09bf7af9af6724dd7390b5f7995454f354908695f819f161f3c.ctv
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-7.ctv
+CHC动作电影,https://stream1.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225728/index.m3u8$hlj移动高清
-北京文艺频道,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9c137dc0f-0-0-255a4cb9942421b201f9a42812615549/index.m3u8$兰州大学
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226406/index.m3u8$hlj移动高清
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225612/index.m3u8$hlj移动高清
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$hlj移动高清
