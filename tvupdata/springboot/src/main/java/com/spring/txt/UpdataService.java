@@ -410,7 +410,7 @@ public class UpdataService {
             } catch (Exception e) {
                 if (reTry > 0) {
                     try {
-                        Thread.sleep(300);
+                        Thread.sleep(1000);
                     } catch (InterruptedException e1) {
                         e1.printStackTrace();
                     }
