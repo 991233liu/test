@@ -53,7 +53,7 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   // 播放截取的列表数组的前,后关键词
-  "bfjiequshuzuqian": "<span class="suf">",
+  "bfjiequshuzuqian": "<span class=\"suf\">",
   "bfjiequshuzuhou": "</span>",
   // 详情页状态,导演,主演,简介关键词
   "zhuangtaiqian": "更新：</span>",
