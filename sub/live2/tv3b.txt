@@ -1,5 +1,4 @@
 收藏,#genre#
-动漫秀场,https://epg.pw/stream/063f86620cbc5947dba09359a7e98b196ab92dfdcbb2c725b247793d4e48c506.ctv
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225662/index.m3u8$hlj移动超清
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225657/index.m3u8$hlj移动超清
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225656/index.m3u8$hlj移动超清
@@ -111,6 +110,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
 北京文艺频道,https://epg.pw/stream/f9426f635fe4e7f6fc12fdd2ab39f57196afec9428443e600a10c566d8212209.ctv
+北京文艺频道,https://epg.pw/stream/8187544928bf88cd37dfc894fbd1725cdc517acf08e68874396d6152b1166f05.ctv
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226406/index.m3u8$hlj移动超清
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225612/index.m3u8$hlj移动超清
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226391/index.m3u8$hlj移动超清
@@ -148,13 +148,20 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/index.m3u8$hlj移动超清
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8$hlj移动超清
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226803/index.m3u8$hlj移动超清
-SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8$hlj移动超清
-风云剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$hlj移动超清
-第一剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$hlj移动超清
-怀旧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$hlj移动超清
+游戏风云,https://epg.pw/stream/8aba680369cc3fee7afa114ad69f28ff51734cfa6f8fbe9ef31ef2d2ab678eb6.ctv
 都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
+风云剧场,https://epg.pw/stream/3ebce9eb20fc904e8c7aba0a5717cf7b76adb2c0af6ef9245d44eef34a18d131.ctv
+风云剧场,https://epg.pw/stream/8c5ede6ea5578a0a7f3971a31ff8043098e43268eeb2af377ed3c17b2ad7377d.m3u8
+风云剧场,https://epg.pw/stream/b1d2a82808888927452738ff555f3f0aacaf12f1b5aedbaf5926e8e13fad3271.m3u8
+第一剧场,https://epg.pw/stream/9d92f4ada008c74a9e94543689a12305b6981b5cc0d61f9da4b6171af3c5f805.m3u8
+第一剧场,https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.m3u8
+第一剧场,https://epg.pw/stream/a240034b4c970721f7e6bd1da0f4f3ecbc5872b443d3d5a6448df8ad78c45ce4.m3u8
+第一剧场,https://epg.pw/stream/c8de8673b62004650b7b13fc3e0a27de855dbaf19772232a9bda9b7a394e3eb9.m3u8
+第一剧场,https://epg.pw/stream/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.m3u8
+怀旧剧场,https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
+怀旧剧场,https://epg.pw/stream/f451089a5253d696d2cb91230f4944eaf197b7cb13b7da926dc2781c0ed075ac.ctv
+怀旧剧场,https://epg.pw/stream/f15ee6cfb9565bd3cd9aae88e6ab5b1e5f805c0e73d54f76ca846248b00dceef.m3u8
+怀旧剧场,https://epg.pw/stream/93a4b3690fe3044e0d5f2d423c17214f8a6ccc7009313a7aa539c7960fe9dccf.ctv
 CHC高清电影,https://epg.pw/stream/c768ec2110a9e5e8f60193b5b1574d472e38f568e82e645755e768af8aa8de9e.ctv
 CHC高清电影,https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
 CHC高清电影,https://epg.pw/stream/212b925c47a28994443e012c65356110e90af22c555f8e3f40c036614fec7f6d.m3u8
@@ -204,14 +211,6 @@ CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c54
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226439/index.m3u8$hlj移动高清
 
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225675/index.m3u8$hlj移动高清
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226187/index.m3u8
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226187/index.m3u8
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
-SiTV动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$hlj移动高清
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$hlj移动高清
-SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$hlj移动高清
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$hlj移动
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$hlj移动
@@ -251,9 +250,6 @@ SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226581/i
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$hlj移动
 
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$hlj移动
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8$hlj移动
-SiTV游戏风云,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8$hlj移动
-SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8$hlj移动
 
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8$陕西移动
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$陕西移动2
@@ -304,11 +300,7 @@ SiTV都市剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226581/i
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$陕西移动
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$陕西移动
 卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
-嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8$陕西移动
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$陕西移动
-SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8$陕西移动
-SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8$陕西移动
-SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8$陕西移动
 
 
 优漫卡通,https://epg.pw/stream/1a493f984affc629db2079c4527d4cf799d8ed816b577fcb57a045bf2ac989e7.m3u8
