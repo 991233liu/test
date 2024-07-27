@@ -72,9 +72,9 @@
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
   // 播放剧集标题前,后关键词
-  "bfbiaotiqian": "<span>",
-  "bfbiaotihou": "</span>",
+  "bfbiaotiqian": "title='",
+  "bfbiaotihou": "'",
   // 播放剧集链接前,后关键词
-  "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
+  "bflianjieqian": "href='",
+  "bflianjiehou": "'"
 }
