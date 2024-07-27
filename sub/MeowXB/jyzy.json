@@ -13,19 +13,19 @@
   // 截取的列表数组是否需要二次截取，0不需要，1需要
   "shifouercijiequ": "0",
   // 二次截取前
-  "jiequqian": "odule-page",
+  "jiequqian": "",
   // 二次截取后
-  "jiequhou": "<div id=\"page\">",
+  "jiequhou": "",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "<a",
+  "jiequshuzuqian": "class=\"xing_vb4\"",
   // 列表数组的后关键词
   "jiequshuzuhou": "</a>",
   // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   //列表中资源的标题前,后关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotiqian": "title=\"",
-  "biaotihou": "\"",
+  "biaotiqian": "ac=detail\">",
+  "biaotihou": "<em",
   // 列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
