@@ -148,7 +148,13 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/index.m3u8$hlj移动超清
-游戏风云,https://epg.pw/stream/8aba680369cc3fee7afa114ad69f28ff51734cfa6f8fbe9ef31ef2d2ab678eb6.ctv
+游戏风云,https://epg.pw/stream/4ca959e73f559db7e6e02e1ddc1a49764ed0ebc01fed07827ea3d7fc41250048.ctv
+游戏风云,https://epg.pw/stream/d0b0db3c6475ba403aceb55ffd2e593f1be0e0e02c7220c37f7b5f491f4ee0e0.ctv
+游戏风云,https://epg.pw/stream/d1bb6312094a183318772524ac413ff33c632bafc23cfdbd12858a7c98d886a4.ctv
+游戏风云,https://epg.pw/stream/c7a0f7227cf8d57140bb1381cef895436fd3307234216da3232c0864191cf11a.ctv
+游戏风云,https://epg.pw/stream/13f3ff05257c4956b40881b02eee9e17396e8f4f305e210c270cf9b6ae7b47c7.ctv
+游戏风云,https://epg.pw/stream/8f0ca001bab00f34b9c32cf632d95a4174d934c7dee5d9d5879dfe3c1f880c44.m3u8
+游戏风云,https://epg.pw/stream/e4e31be4d038d38571dfc0ec147803b7ca3534eec6d43f36425da997efe3aaee.m3u8
 都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
 风云剧场,https://epg.pw/stream/3ebce9eb20fc904e8c7aba0a5717cf7b76adb2c0af6ef9245d44eef34a18d131.ctv
 风云剧场,https://epg.pw/stream/8c5ede6ea5578a0a7f3971a31ff8043098e43268eeb2af377ed3c17b2ad7377d.m3u8
