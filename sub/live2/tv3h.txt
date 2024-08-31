@@ -109,7 +109,8 @@ CCTV10,https://node1.olelive.com:6443/live/CCTV10HD_360/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225728/index.m3u8$hlj移动超清
-北京文艺频道,https://epg.pw/stream/f9426f635fe4e7f6fc12fdd2ab39f57196afec9428443e600a10c566d8212209.ctv
+北京文艺频道,https://epg.pw/stream/ed522bc38be14e2ffbc968b414f7dc58052f2465d91187d49e0338346dea42f5.ctv
+北京文艺频道,https://epg.pw/stream/00e0ce364cc34744a4a6dd1ee344178127189d089c36d278efa7207c670af224.ctv
 北京文艺频道,https://epg.pw/stream/8187544928bf88cd37dfc894fbd1725cdc517acf08e68874396d6152b1166f05.ctv
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226406/index.m3u8$hlj移动超清
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225612/index.m3u8$hlj移动超清
@@ -148,6 +149,10 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/index.m3u8$hlj移动超清
+游戏风云,https://epg.pw/stream/a657c402d4784a852d055482c50d78404bae4303324f9c8e42f92577bcb602e1.ctv
+游戏风云,https://epg.pw/stream/33afca879035ef3cdf413512213987ca3202627883aa9b12c04689ceca58a67a.ctv
+游戏风云,https://epg.pw/stream/058aa82c8e78dfe19071af0f16b5c41d9a13062cc3816b9520d8bdf9c7a1874c.ctv
+游戏风云,https://epg.pw/stream/092886e2f87eef89664e3eb7c1f59b25d39d279d09497bb5e0d904a749a4d6ac.ctv
 游戏风云,https://epg.pw/stream/13f3ff05257c4956b40881b02eee9e17396e8f4f305e210c270cf9b6ae7b47c7.ctv
 游戏风云,https://epg.pw/stream/d1bb6312094a183318772524ac413ff33c632bafc23cfdbd12858a7c98d886a4.ctv
 游戏风云,https://epg.pw/stream/c7a0f7227cf8d57140bb1381cef895436fd3307234216da3232c0864191cf11a.ctv
@@ -155,6 +160,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD_360/hls.m3u8
 游戏风云,https://epg.pw/stream/e4e31be4d038d38571dfc0ec147803b7ca3534eec6d43f36425da997efe3aaee.m3u8
 游戏风云,https://epg.pw/stream/4ca959e73f559db7e6e02e1ddc1a49764ed0ebc01fed07827ea3d7fc41250048.ctv
 游戏风云,https://epg.pw/stream/d0b0db3c6475ba403aceb55ffd2e593f1be0e0e02c7220c37f7b5f491f4ee0e0.ctv
+
 都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
 风云剧场,https://epg.pw/stream/3ebce9eb20fc904e8c7aba0a5717cf7b76adb2c0af6ef9245d44eef34a18d131.ctv
 风云剧场,https://epg.pw/stream/8c5ede6ea5578a0a7f3971a31ff8043098e43268eeb2af377ed3c17b2ad7377d.m3u8
@@ -307,10 +313,6 @@ CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c54
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8$陕西移动
 卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8$陕西移动
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8$陕西移动
-
-
-优漫卡通,https://epg.pw/stream/1a493f984affc629db2079c4527d4cf799d8ed816b577fcb57a045bf2ac989e7.m3u8
-金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
 
 
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$hlj移动
