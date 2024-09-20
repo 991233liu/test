@@ -2,7 +2,6 @@ package com.spring;
 
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,15 +11,12 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import com.alibaba.fastjson.support.config.FastJsonConfig;
 import com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter;
-import com.spring.txt.UpdataService;
 
 @SpringBootApplication
 public class Application implements CommandLineRunner, WebMvcConfigurer {
 
 //    @Autowired
 //    DataSource dataSource;
-    @Autowired
-    UpdataService updataService;
 
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
@@ -29,10 +25,6 @@ public class Application implements CommandLineRunner, WebMvcConfigurer {
     @Override
     public void run(String... args) throws Exception {
         System.out.println(">>>>>>>>>>>>>>>>>服务启动执行");
-        updataService.download();
-        boolean flag = updataService.writeMyFile();
-        if (flag)
-            updataService.updataGit();
 //        showConnection();
 //        Locker.getInstance(jdbcTemplate, transactionManager);
 //        bootStrap.init();
