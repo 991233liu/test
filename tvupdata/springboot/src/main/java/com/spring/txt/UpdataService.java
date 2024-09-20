@@ -46,10 +46,10 @@ public class UpdataService implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        epgPwService.start();
+        boolean epgFlag = epgPwService.start();
         gitHubService.download();
-        boolean flag = gitHubService.writeMyFile();
-        if (flag)
+        boolean gitHubFlag = gitHubService.writeMyFile();
+        if (epgFlag || gitHubFlag)
             updataGit();
     }
 

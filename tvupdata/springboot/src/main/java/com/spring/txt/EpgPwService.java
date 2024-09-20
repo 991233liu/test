@@ -47,13 +47,16 @@ public class EpgPwService {
      * 
      * @throws IOException
      */
-    public void start() {
+    public boolean start() {
         Map<String, Object> epgUrls = downloadEpgUrls();
-        writeTempFile(epgUrls);
+        if (writeTempFile(epgUrls))
+            return copy2git();
+        else
+            return false;
     }
 
     @SuppressWarnings("unchecked")
-    private void writeTempFile(Map<String, Object> epgUrls) {
+    private boolean writeTempFile(Map<String, Object> epgUrls) {
         try {
             List<String> tempTexts = new ArrayList<>();
             List<String> texts = FileUtils.readLines(new File("d:\\temp\\TVBox\\code\\sub\\live2\\tv3b.txt"), "UTF-8");
@@ -78,9 +81,24 @@ public class EpgPwService {
                 tempTexts.add(str);
             }
             FileUtils.write(new File(baseFilePath + "/epgTemp.txt"), tempTexts.stream().collect(Collectors.joining("\n")), "UTF-8");
+            return true;
         } catch (IOException e) {
             log.error("保存临时文件时异常：", e);
         }
+        return false;
+    }
+
+    private boolean copy2git() {
+        File srcFile = new File(baseFilePath + "/epgTemp.txt");
+        File destFile = new File("d:\\temp\\TVBox\\code\\sub\\live2\\tv3b.txt");
+        try {
+            FileUtils.copyFile(srcFile, destFile);
+            return true;
+        } catch (IOException e) {
+            log.error("复制临时文件到git目录时异常：", e);
+        }
+
+        return false;
     }
 
     /**
