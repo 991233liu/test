@@ -19,6 +19,7 @@ import javax.annotation.PostConstruct;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
@@ -31,6 +32,8 @@ import com.alibaba.fastjson.JSON;
 public class EpgPwService {
     private static final Logger log = LogManager.getLogger(EpgPwService.class);
 
+    @Value("${config.localGit}")
+    private String localGitPath;
     private String baseFilePath;
     private Map<String, Object> epgInfo;
 
@@ -59,7 +62,7 @@ public class EpgPwService {
     private boolean writeTempFile(Map<String, Object> epgUrls) {
         try {
             List<String> tempTexts = new ArrayList<>();
-            List<String> texts = FileUtils.readLines(new File("d:\\temp\\TVBox\\code\\sub\\live2\\tv3b.txt"), "UTF-8");
+            List<String> texts = FileUtils.readLines(new File(localGitPath + "/sub/live2/tv3b.txt"), "UTF-8");
             String group = "";
             for (String str : texts) {
                 if (str.indexOf(",") > 1) {
@@ -90,7 +93,7 @@ public class EpgPwService {
 
     private boolean copy2git() {
         File srcFile = new File(baseFilePath + "/epgTemp.txt");
-        File destFile = new File("d:\\temp\\TVBox\\code\\sub\\live2\\tv3b.txt");
+        File destFile = new File(localGitPath + "/sub/live2/tv3b.txt");
         try {
             FileUtils.copyFile(srcFile, destFile);
             return true;

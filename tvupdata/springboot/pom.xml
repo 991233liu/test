@@ -50,30 +50,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>${project.artifactId}-${profiles.active}</finalName>
+		<finalName>${project.artifactId}</finalName>
 	</build>
-	<profiles>
-		<profile>
-			<!--avtive名称 -->
-			<id>dev</id>
-			<properties>
-				<profiles.active>dev</profiles.active>
-			</properties>
-			<activation>
-				<activeByDefault>true</activeByDefault>
-			</activation>
-		</profile>
-		<profile>
-			<id>test</id>
-			<properties>
-				<profiles.active>test</profiles.active>
-			</properties>
-		</profile>
-		<profile>
-			<id>prod</id>
-			<properties>
-				<profiles.active>prod</profiles.active>
-			</properties>
-		</profile>
-	</profiles>
 </project>

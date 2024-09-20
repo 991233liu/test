@@ -21,6 +21,7 @@ import org.eclipse.jgit.transport.CredentialsProvider;
 import org.eclipse.jgit.transport.RefSpec;
 import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Service;
 
@@ -37,6 +38,8 @@ public class UpdataService implements CommandLineRunner {
     @Autowired
     EpgPwService epgPwService;
 
+    @Value("${config.localGit}")
+    private String localGitPath;
     private String baseFilePath;
 
     @PostConstruct
@@ -62,7 +65,7 @@ public class UpdataService implements CommandLineRunner {
      */
     public void updataGit() throws IOException, NoFilepatternException, GitAPIException {
         // 打开本地仓库
-        File gitDir = new File("d:/temp/TVBox/code/.git");
+        File gitDir = new File(localGitPath + "/.git");
         Git git = Git.open(gitDir);
 //        // 获取工作目录
 //        git.checkout().setName("master").call(); // 切换到master分支，如果需要的话

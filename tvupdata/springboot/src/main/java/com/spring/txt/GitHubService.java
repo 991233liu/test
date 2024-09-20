@@ -21,6 +21,7 @@ import javax.annotation.PostConstruct;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
@@ -33,6 +34,8 @@ import com.alibaba.fastjson.JSON;
 public class GitHubService {
     private static final Logger log = LogManager.getLogger(GitHubService.class);
 
+    @Value("${config.localGit}")
+    private String localGitPath;
     private String baseFilePath;
     private Map<String, Object> ipInfos;
 
@@ -133,8 +136,8 @@ public class GitHubService {
         f.createNewFile();
 
         // 复制到git
-        FileUtils.copyFile(getFile("newUrl-d.txt"), new File("d:/temp/TVBox/code/sub/live2/tv3hd.txt"));
-        FileUtils.copyFile(getFile("newUrl-l.txt"), new File("d:/temp/TVBox/code/sub/live2/tv3hl.txt"));
+        FileUtils.copyFile(getFile("newUrl-d.txt"), new File(localGitPath + "/sub/live2/tv3hd.txt"));
+        FileUtils.copyFile(getFile("newUrl-l.txt"), new File(localGitPath + "/sub/live2/tv3hl.txt"));
 
         System.out.println("成功更新了一次！");
         return true;
@@ -347,8 +350,7 @@ public class GitHubService {
                         e1.printStackTrace();
                     }
                     getIpInfo(url, --reTry);
-                }
-                else
+                } else
                     throw new RuntimeException(e);
             }
         }

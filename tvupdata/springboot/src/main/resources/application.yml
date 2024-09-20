@@ -1,15 +1,15 @@
 server:
    port: 8083
    servlet:
-      context-path: /assistant
+      context-path: /spring
    
 spring:
    application:
-      name: assistant
+      name: spring
    profiles:
-      active: @profiles.active@
+      active: dev
    config:
       import: 
-         - classpath:/my-@profiles.active@.yml
+         - classpath:/my-${spring.profiles.active}.yml
 #         - optional:consul:/config/${spring.application.name};/config/${spring.application.name}/${spring.cloud.consul.discovery.instanceId}
 
