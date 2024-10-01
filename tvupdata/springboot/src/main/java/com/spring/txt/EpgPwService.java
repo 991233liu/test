@@ -51,7 +51,7 @@ public class EpgPwService {
      * @throws IOException
      */
     public boolean start() {
-        Map<String, Object> epgUrls = downloadEpgUrls();
+        Map<String, Object> epgUrls = downloadEpgUrls(epgInfo);
         if (writeTempFile(epgUrls))
             return copy2git();
         else
@@ -109,7 +109,7 @@ public class EpgPwService {
      * 
      * @throws IOException
      */
-    public Map<String, Object> downloadEpgUrls() {
+    public Map<String, Object> downloadEpgUrls(Map<String, Object> epgInfo) {
         Map<String, Object> epgUrls = new HashMap<>();
         epgInfo.forEach((key, value) -> {
             String tvName = (String) value;
