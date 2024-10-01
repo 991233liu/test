@@ -37,7 +37,9 @@ public class GitHubService {
     @Value("${config.localGit}")
     private String localGitPath;
     private String baseFilePath;
-    private Map<String, Object> ipInfos;
+    public Map<String, Object> ipInfos;
+    public Map<String, Object> defUrl;
+    public Map<String, Object> template;
 
     @PostConstruct
     public void init() {
@@ -45,6 +47,9 @@ public class GitHubService {
         ipInfos = getJsonFile("ipInfo.json");
         if (ipInfos == null)
             ipInfos = new HashMap<>();
+        
+        defUrl = getJsonFile("defUrl.json");
+        template = getJsonFile("template.json");
     }
 
     /**
@@ -96,9 +101,6 @@ public class GitHubService {
         if (f.exists()) { // 已经处理过就不要再处理了
             return false;
         }
-
-        Map<String, Object> defUrl = getJsonFile("defUrl.json");
-        Map<String, Object> template = getJsonFile("template.json");
         Map<String, Object> result = new HashMap<>();
 
         BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(getFile("newFile.txt"))));

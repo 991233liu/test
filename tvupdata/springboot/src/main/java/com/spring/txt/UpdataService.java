@@ -3,6 +3,8 @@ package com.spring.txt;
 import java.io.File;
 import java.io.IOException;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 import javax.annotation.PostConstruct;
 
@@ -54,6 +56,13 @@ public class UpdataService implements CommandLineRunner {
         boolean gitHubFlag = gitHubService.writeMyFile();
         if (epgFlag || gitHubFlag)
             updataGit();
+        //
+        Map<String, Object> epgInfo = new HashMap<>();
+        gitHubService.template.forEach((key, value) -> {
+            epgInfo.put(key, key);
+        });
+        Map<String, Object> epgUrls = epgPwService.downloadEpgUrls(epgInfo);
+        System.out.println(epgUrls);
     }
 
     /**
