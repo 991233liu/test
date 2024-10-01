@@ -7,7 +7,6 @@
 金鹰卡通,http://121.24.98.226:8090/hls/72/index.m3u8
 金鹰卡通,http://111.61.236.247:9081/hls/66/index.m3u8
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
-CCTV14,http://121.24.98.226:8090/hls/22/index.m3u8
 CCTV1,http://121.24.98.226:8090/hls/9/index.m3u8
 CCTV1,http://101.75.215.116:8008/hls/1/index.m3u8
 CCTV1,http://27.185.1.27:8092/hls/1/index.m3u8
@@ -82,6 +81,7 @@ CCTV13,http://101.75.215.116:8008/hls/13/index.m3u8
 CCTV13,http://27.185.1.27:8092/hls/13/index.m3u8
 CCTV13,http://111.61.236.247:9081/hls/13/index.m3u8
 CCTV13,http://183.196.87.176:880/030000001000/CCTV-13/CCTV-13.m3u8?livemode=1
+CCTV14,http://121.24.98.226:8090/hls/22/index.m3u8
 CCTV14,http://101.75.215.116:8008/hls/14/index.m3u8
 CCTV14,http://27.185.1.27:8092/hls/14/index.m3u8
 CCTV14,http://111.61.236.247:9081/hls/14/index.m3u8
