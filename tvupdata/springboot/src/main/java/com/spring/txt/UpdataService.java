@@ -49,6 +49,7 @@ public class UpdataService implements CommandLineRunner {
         baseFilePath = System.getProperty("user.dir") + "/txt";
     }
 
+    @SuppressWarnings("unchecked")
     @Override
     public void run(String... args) throws Exception {
         boolean epgFlag = epgPwService.start();
@@ -57,12 +58,14 @@ public class UpdataService implements CommandLineRunner {
         if (epgFlag || gitHubFlag)
             updataGit();
         //
-        Map<String, Object> epgInfo = new HashMap<>();
-        gitHubService.template.forEach((key, value) -> {
-            epgInfo.put(key, key);
-        });
-        Map<String, Object> epgUrls = epgPwService.downloadEpgUrls(epgInfo);
-        System.out.println(epgUrls);
+//        Map<String, Object> epgInfo = new HashMap<>();
+//        gitHubService.template.forEach((key, value) -> {
+//            ((Map<String, Object>) value).forEach((key2, value2) -> {
+//                epgInfo.put(key2, key2);
+//            });
+//        });
+//        Map<String, Object> epgUrls = epgPwService.downloadEpgUrls(epgInfo);
+//        System.out.println(epgUrls);
     }
 
     /**

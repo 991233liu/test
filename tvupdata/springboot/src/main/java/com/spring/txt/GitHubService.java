@@ -47,7 +47,7 @@ public class GitHubService {
         ipInfos = getJsonFile("ipInfo.json");
         if (ipInfos == null)
             ipInfos = new HashMap<>();
-        
+
         defUrl = getJsonFile("defUrl.json");
         template = getJsonFile("template.json");
     }
@@ -98,9 +98,9 @@ public class GitHubService {
         String md5 = MD5.getFileMd5(f);
         System.out.println(md5);
         f = getFile(md5 + ".txt");
-        if (f.exists()) { // 已经处理过就不要再处理了
-            return false;
-        }
+//        if (f.exists()) { // 已经处理过就不要再处理了
+//            return false;
+//        }
         Map<String, Object> result = new HashMap<>();
 
         BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(getFile("newFile.txt"))));
@@ -239,17 +239,19 @@ public class GitHubService {
                     if (ipInfo.indexOf(diqu) > -1)
                         isHebei1 = true;
                 }
-                ipInfo = getIpInfo(u2, 5);
+                String ipInfo2 = getIpInfo(u2, 5);
                 boolean isDianxin2 = false;
                 boolean isHebei2 = false;
-                if (ipInfo != null) {
-                    if (ipInfo.indexOf(yunyingshang) > -1)
+                if (ipInfo2 != null) {
+                    if (ipInfo2.indexOf(yunyingshang) > -1)
                         isDianxin2 = true;
-                    if (ipInfo.indexOf(diqu) > -1)
+                    if (ipInfo2.indexOf(diqu) > -1)
                         isHebei2 = true;
                 }
                 if (isDianxin1 && isDianxin2) {
-                    if (isHebei1)
+                    if (isHebei1 && isHebei2) {
+                        return 0;
+                    } else if (isHebei1)
                         return -1;
                     else if (isHebei2)
                         return 1;
@@ -347,7 +349,7 @@ public class GitHubService {
             } catch (Exception e) {
                 if (reTry > 0) {
                     try {
-                        Thread.sleep(1000);
+                        Thread.sleep(1500);
                     } catch (InterruptedException e1) {
                         e1.printStackTrace();
                     }
