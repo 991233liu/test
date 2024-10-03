@@ -80,7 +80,7 @@ public class UpdataService implements CommandLineRunner {
         File gitDir = new File(localGitPath + "/.git");
         Git git = Git.open(gitDir);
 //        // 获取工作目录
-//        git.checkout().setName("master").call(); // 切换到master分支，如果需要的话
+        git.checkout().setName("master").call(); // 切换到master分支，如果需要的话
         // 从远端更新git
         git.pull().call();
         // 获取仓库状态
