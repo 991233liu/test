@@ -239,12 +239,14 @@ CHC动作电影,https://epg.pw/stream/413df533cc2d866bacdc87729814e66f4cf836c13b
 CHC动作电影,https://epg.pw/stream/chcdong-zuo-dian-ying-4.m3u8
 CHC动作电影,https://epg.pw/stream/d55f8444a0f39b81a169cd645abd85e822619c1c77a72ad0874f252b51ff769d.ctv
 CHC动作电影,https://epg.pw/stream/chcdong-zuo-dian-ying-2.ctv
+CHC动作电影,https://epg.pw/stream/c9cda9e18bd11c70691ee6b5a11b60696f68071aaa24daa2f3e95d94e6f6466b.ctv
 CHC动作电影,https://epg.pw/stream/7946cfbf7a25f09bf7af9af6724dd7390b5f7995454f354908695f819f161f3c.m3u8
 CHC动作电影,https://epg.pw/stream/chcdong-zuo-dian-ying-9.m3u8
 CHC动作电影,https://epg.pw/stream/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.ctv
 CHC动作电影,https://epg.pw/stream/chcdong-zuo-dian-ying-6.ctv
 CHC动作电影,https://epg.pw/stream/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.ctv
 CHC动作电影,https://epg.pw/stream/chcdong-zuo-dian-ying-17.ctv
+CHC动作电影,https://epg.pw/stream/9f91fb29be6ae26b68f5cd0a28b04e336a67a57b12563ae44afc4d5045d65e71.ctv
 CHC动作电影,https://epg.pw/stream/bd022833292ad7c9cc7f961ee984c8cd022476f5fbedcac021a104260aeb62a0.ctv
 CHC动作电影,https://epg.pw/stream/chcdong-zuo-dian-ying-5.ctv
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
