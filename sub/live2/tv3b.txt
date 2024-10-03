@@ -188,6 +188,7 @@ BTV文艺,https://epg.pw/stream/8187544928bf88cd37dfc894fbd1725cdc517acf08e68874
 怀旧剧场,https://epg.pw/stream/93a4b3690fe3044e0d5f2d423c17214f8a6ccc7009313a7aa539c7960fe9dccf.ctv
 怀旧剧场,https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
 怀旧剧场,https://epg.pw/stream/f15ee6cfb9565bd3cd9aae88e6ab5b1e5f805c0e73d54f76ca846248b00dceef.ctv
+怀旧剧场,https://epg.pw/stream/2c3d1ac4b573288b1d3866589c6c1c80b3a865d45bf61826eddb676165cc3191.ctv
 CHC高清电影,https://epg.pw/stream/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9dd9f11f927.ctv
 CHC高清电影,https://epg.pw/stream/c768ec2110a9e5e8f60193b5b1574d472e38f568e82e645755e768af8aa8de9e.ctv
 CHC高清电影,https://epg.pw/stream/chcgao-qing-dian-ying-2.ctv
@@ -201,6 +202,7 @@ CHC高清电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d902
 CHC高清电影,https://epg.pw/stream/chcgao-qing-dian-ying-6.m3u8
 CHC高清电影,https://epg.pw/stream/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv
 CHC高清电影,https://epg.pw/stream/chcgao-qing-dian-ying-11.ctv
+CHC高清电影,https://epg.pw/stream/682dd87ae8746d13b39c9dbcada27f8c48cf4b093b2bf69d563d558881385551.ctv
 CHC家庭影院,https://epg.pw/stream/dae839ecdc5753dd13a93e33039195e69bcb57600fd00f431929b23e48571cd8.m3u8
 CHC家庭影院,https://epg.pw/stream/chcjia-ting-ying-yuan-23.m3u8
 CHC家庭影院,https://epg.pw/stream/bc502ee96e1dc95399bafc00fc229604b0ec18394c40bdb06c00ab8291fe3f0b.ctv
