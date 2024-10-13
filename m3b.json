@@ -62,13 +62,6 @@
 {"key":"Auete","name":"🍀奥特┃影视","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD┃影视","type":3,"api":"csp_XBiubiu","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/voflix.json"},
 
-{"key":"夸搜","name":"🐺夸搜┃搜索","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-
 {"key":"csp_xp_Jumi","name":"💢剧迷TV┃备用","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/Jumi.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士┃备用","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫┃备用","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/yinghua.json"},
@@ -138,6 +131,13 @@
 {"key":"csp_xml_趣看采集","name":"🐝趣看采集","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_松鼠资源","name":"🐝松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+{"key":"夸搜","name":"🐺夸搜┃搜索","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
+{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
+{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
+{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
+{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
 
 {"key":"88js","name":"⚽看球88┃体育","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Jrsjs","name":"⚽看球Jrs┃体育","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
