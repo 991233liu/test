@@ -53,7 +53,7 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   // 播放截取的列表数组的前,后关键词
-  "bfjiequshuzuqian": "class=\"vodplayinfo\"",
+  "bfjiequshuzuqian": "<span class=\"suf\">",
   "bfjiequshuzuhou": "</div>",
   // 详情页状态,导演,主演,简介关键词
   "zhuangtaiqian": "更新：</span>",
@@ -72,9 +72,9 @@
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
   // 播放剧集标题前,后关键词
-  "bfbiaotiqian": "title='",
-  "bfbiaotihou": "'",
+  "bfbiaotiqian": "title=\"",
+  "bfbiaotihou": "\"",
   // 播放剧集链接前,后关键词
-  "bflianjieqian": "href='",
-  "bflianjiehou": "'"
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
 }
