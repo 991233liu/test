@@ -9,7 +9,7 @@
   // 网站列表的分类
   "fenlei": "电视剧$/index.php/vod/type/id/1#电影$/index.php/vod/type/id/2#综艺$/index.php/vod/type/id/27#动漫$/index.php/vod/type/id/17#伦理片$/index.php/vod/type/id/8#短剧$/index.php/vod/type/id/30",
   // 网站翻页链接的后缀
-  "houzhui": ".html",
+  "houzhui": ".html?ac=detail",
   // 截取的列表数组是否需要二次截取，0不需要，1需要
   "shifouercijiequ": "0",
   // 二次截取前
@@ -42,10 +42,10 @@
   "ssjiequqian": "空",
   "ssjiequhou": "空",
   "ssjiequshuzuqian": "class=\"xing_vb4\"",
-  "ssjiequshuzuhou": "</a>",
+  "ssjiequshuzuhou": "</span>",
   "sstupianqian": "空",
   "sstupianhou": "空",
-  "ssbiaotiqian": "ac=detail\">",
+  "ssbiaotiqian": ">",
   "ssbiaotihou": "<em",
   "sslianjieqian": "href=\"",
   "sslianjiehou": "\"",
