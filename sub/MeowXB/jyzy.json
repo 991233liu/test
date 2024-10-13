@@ -54,7 +54,7 @@
   "bfjiequhou": "空",
   // 播放截取的列表数组的前,后关键词
   "bfjiequshuzuqian": "<span class=\"suf\">",
-  "bfjiequshuzuhou": "</div>",
+  "bfjiequshuzuhou": "</span>",
   // 详情页状态,导演,主演,简介关键词
   "zhuangtaiqian": "更新：</span>",
   "zhuangtaihou": "</div>",
@@ -62,7 +62,7 @@
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</div>",
-  "juqingqian": "class=\"module-info-introduction-content\"",
+  "juqingqian": "class=\"vodplayinfo\"",
   "juqinghou": "</div>",
   // 截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyshifouercijiequ": "0",
