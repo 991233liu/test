@@ -11,11 +11,11 @@
   // 网站翻页链接的后缀
   "houzhui": ".html?ac=detail",
   // 截取的列表数组是否需要二次截取，0不需要，1需要
-  "shifouercijiequ": "0",
+  "shifouercijiequ": "1",
   // 二次截取前
-  "jiequqian": "",
+  "jiequqian": "xing_vb",
   // 二次截取后
-  "jiequhou": "",
+  "jiequhou": "</div>",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuqian": "xing_vb4",
   // 列表数组的后关键词
