@@ -29,7 +29,7 @@
 {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https:///hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js","style":{"type":"rect","ratio":1.755}},
 {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755}},
 
-// {"key":"csp_xml_金鹰资源","name":"🐝金鹰资源┃搜索","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/jyzy.json"},
+{"key":"csp_xml_金鹰资源","name":"🐝金鹰资源┃搜索","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/jyzy.json"},
 // {"key":"csp_xml_金鹰资源","name":"🐝金鹰资源┃搜索","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xml_天空资源","name":"🐝天空资源┃搜索","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_U酷资源","name":"🐝U酷资源┃搜索","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
