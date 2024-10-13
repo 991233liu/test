@@ -35,7 +35,7 @@
   // 搜索页影片跳转详情页的中间标识链接部分
   "sousuohouzhui": "/detail/",
   "ssmoshi": "1",
-  "sousuoshifouercijiequ": "0",
+  "sousuoshifouercijiequ": "1",
   "jspic": "pic",
   "jsname": "name",
   "jsid": "id",
