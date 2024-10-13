@@ -17,7 +17,7 @@
   // 二次截取后
   "jiequhou": "",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "xing_vb4",
+  "jiequshuzuqian": "class=\"xing_vb4\"",
   // 列表数组的后关键词
   "jiequshuzuhou": "",
   // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义
@@ -41,8 +41,8 @@
   "jsid": "id",
   "ssjiequqian": "空",
   "ssjiequhou": "空",
-  "ssjiequshuzuqian": "xing_vb4",
-  "ssjiequshuzuhou": "</span>",
+  "ssjiequshuzuqian": "class=\"xing_vb4\"",
+  "ssjiequshuzuhou": "",
   "sstupianqian": "空",
   "sstupianhou": "空",
   "ssbiaotiqian": ">",
