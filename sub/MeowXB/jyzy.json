@@ -24,8 +24,8 @@
   "tupianqian": "",
   "tupianhou": "",
   //列表中资源的标题前,后关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotiqian": ">",
-  "biaotihou": "<em",
+  "biaotiqian": "target=\"",
+  "biaotihou": "\"",
   // 列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
