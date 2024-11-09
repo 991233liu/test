@@ -98,9 +98,9 @@ public class GitHubService {
         String md5 = MD5.getFileMd5(f);
         System.out.println(md5);
         f = getFile(md5 + ".txt");
-//        if (f.exists()) { // 已经处理过就不要再处理了
-//            return false;
-//        }
+        if (f.exists()) { // 已经处理过就不要再处理了
+            return false;
+        }
         Map<String, Object> result = new HashMap<>();
 
         BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(getFile("newFile.txt"))));
