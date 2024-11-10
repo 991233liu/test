@@ -4,7 +4,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitee.com/liulufeng/test/raw/master/sub/jar/l0407.jar;md5;08d1df09a90cd66241f19fde33c07296",
 "lives":[
-{"name":"live-yd","type":0,"url":"https://hub.gitmirror.com/https://github.com/991233liu/test/raw/master/sub/live2/tv3h.txt","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"live-yd","type":0,"url":"https://fastly.jsdelivr.net/gh/991233liu/test@master/sub/live2/tv3h.txt","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites": [
 {"key":"csp_LiteApple","name":"🍎小苹果┃推荐","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
