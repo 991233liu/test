@@ -4,6 +4,7 @@
 // https://cdn.jsdelivr.net/gh/991233liu/test@master/sub/live2/tv3b.txt
 // https://hub.gitmirror.com/https://raw.githubusercontent.com/991233liu/test/master/sub/live2/tv3b.txt
 // https://hub.gitmirror.com/https://github.com/991233liu/test/raw/master/sub/live2/tv3b.txt
+// https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitee.com/liulufeng/test/raw/master/sub/jar/l0407.jar;md5;08d1df09a90cd66241f19fde33c07296",
@@ -27,7 +28,7 @@
 
 {"key":"csp_Yj1211","name":"📽️网红┃直播","type":3,"api":"csp_Yj1211","playerType":"1","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/虎牙直播.js","style":{"type":"rect","ratio":1.755}},
-{"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://hub.gitmirror.com/https://github.com/hjdhnx/dr_py/blob/V3.9.49beta12/libs/drpy2.min.js","playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/V3.9.49beta12/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755}},
+{"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":"1","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755}},
 
 // {"key":"csp_xml_金鹰资源","name":"🐝金鹰资源┃搜索","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXB/jyzy.json"},
 // {"key":"csp_xml_金鹰资源","name":"🐝金鹰资源┃搜索","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
