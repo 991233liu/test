@@ -148,6 +148,8 @@ BTV文艺,https://epg.pw/stream/8187544928bf88cd37dfc894fbd1725cdc517acf08e68874
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226439/index.m3u8$hlj移动超清
 
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221225675/index.m3u8$hlj移动超清
+游戏风云,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1595481830_-1185482178/wd_r2/ocn/youxifengyunhd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265667664&timezone=UTC&mtv_session=a0ecd5ce9d57ca6fe2f9a78dd80357fc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=238d629872f240eaaeb4749a58e17d18$咪咕视频
+
 游戏风云,https://epg.pw/stream/cb0b093142a77092ca868cc468461485b6cfffbcf9d1de514e48c46e80365abd.ctv
 游戏风云,https://epg.pw/stream/d738c295ccc5411de30dbbd7fc2a00b9c46261d040dd8de0425f7f3441b7faae.ctv
 游戏风云,https://epg.pw/stream/027fd1fdf8642f50dea616e960f802c17e38895bd0fe59154ac9f124fe85b82e.ctv
@@ -211,6 +213,11 @@ CHC高清电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d902
 CHC高清电影,https://epg.pw/stream/chcgao-qing-dian-ying-6.m3u8
 CHC高清电影,https://epg.pw/stream/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv
 CHC高清电影,https://epg.pw/stream/chcgao-qing-dian-ying-11.ctv
+
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad$咪咕视频
+CHC动作电影,http://219.159.194.213:8181/tsfile/live/1019_1.m3u8$订阅源
+CHC动作电影,http://219.159.194.18:8181/tsfile/live/1019_1.m3u8$订阅源
+
 CHC家庭影院,https://epg.pw/stream/327c78f966248f68183ba0a3b18affc4125a2fdf92c4474593bb7141a4491747.ctv
 CHC家庭影院,https://epg.pw/stream/chcjia-ting-ying-yuan-21.ctv
 CHC家庭影院,https://epg.pw/stream/e1a2fbb0b1d50f86285035862649bd7cea0af358c3f3f65cfa7583273b5d960c.m3u8
